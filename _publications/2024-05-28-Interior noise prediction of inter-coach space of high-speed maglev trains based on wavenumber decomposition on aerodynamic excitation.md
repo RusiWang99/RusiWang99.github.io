@@ -1,5 +1,5 @@
 ---
-title: "Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation (EI Journal, First author)"
+title: "Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation (EI Journal, Scopus Q2, First author)"
 collection: publications
 permalink: /publication/2024-05-28-Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation
 excerpt: ''
