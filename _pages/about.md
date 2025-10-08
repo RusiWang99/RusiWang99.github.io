@@ -7,15 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I will go to [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/) to pursue [Master of Philosophy](https://vptlo.hkust-gz.edu.cn/rbm/) in September 2025. I am looking for research internship and Ph.D opportunities now.
+I am currently a Ph.D. student at [Urban Mobility Institute](http://umi.tongji.edu.cn/), Tongji University.
 
-My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
+My research interests lie in dynamic traffic assignment, multimodal transportation (incorporating car-hailing, ridesharing, carpooling, etc.), and travel demand management (e.g., road pricing, tradable credit scheme, booking cum rationing).
 
-I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and work efficiency by better understanding brain science, neuroscience, and life science.
-
-I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
-
-[Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
+I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) at TESLA starting from September 2024, where my focus on solving the problem of dynamic multimodal traffic assignment and dynamic travel demand management using a novel space-time-expanded network structure.
 
 Let's be passionate!
 
