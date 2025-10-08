@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-05-28
 venue: 'Noise & Vibration Worldwide'
 paperurl: 'https://sage.cnpereading.com/paragraph/article/?doi=10.1177/09574565241252989'
-citation: 'Wang R, Huang J. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. Noise and Vibration Worldwide, 2024, 55(6-7): 304-321.'
+citation: 'Wang, R., & Huang, J. (2024). Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. Noise & Vibration Worldwide, 55(6-7), 304-321.'
 ---
 
 ## Abstract
