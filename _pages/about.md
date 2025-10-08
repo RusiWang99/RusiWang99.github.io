@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "About me（Update in 2025.10.8）👋"
+title: "About me (Update in 2025.10.08) 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a Ph.D. student at [Urban Mobility Institute](http://umi.tongji.edu.cn/), Tongji University.
+I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree and my M.Eng. degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) and Tongji University in 2021 and 2024, respectively. I am currently a Ph.D. student at [Urban Mobility Institute](http://umi.tongji.edu.cn/), Tongji University.
 
-My research interests lie in dynamic traffic assignment, multimodal transportation (incorporating car-hailing, ridesharing, carpooling, etc.), and travel demand management (e.g., road pricing, tradable credit scheme, booking cum rationing).
-
-I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) at TESLA starting from September 2024, where my focus on solving the problem of dynamic multimodal traffic assignment and dynamic travel demand management using a novel space-time-expanded network structure.
+I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) at TESLA starting from September 2024. My research interests lie in dynamic traffic assignment, multimodal transportation (incorporating car-hailing, ridesharing, carpooling, etc.), and travel demand management (e.g., road pricing, tradable credit scheme, booking cum rationing).
 
 Let's be passionate!
 
