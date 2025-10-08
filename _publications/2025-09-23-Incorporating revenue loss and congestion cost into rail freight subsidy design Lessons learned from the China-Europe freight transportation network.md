@@ -6,7 +6,8 @@ excerpt: ''
 date: 2025-09-23
 venue: 'Transport Policy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0967070X25003622?via%3Dihub'
-citation: 'Xie C, Wang R, Wang D, Zou B, Fu X, Chen X, Lu Q-C. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. Transport Policy. 2025, 174: 103819. https://doi.org/10.1016/j.tranpol.2025.103819'
+citation: 'Xie, C., Wang, R., Wang, D., Zou, B., Fu, X., Chen, X., & Lu, Q.-C. (2025). Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. Transport Policy, 174, 103819. https://doi.org/10.1016/j.tranpol.2025.103819'
+
 ---
 
 ## Abstract
