@@ -35,6 +35,10 @@ Honors and Awards
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
 * Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
 
+International Experience
+======
+* Oxford University Academic Experience Programme, Oxford, UK (14-day programme), January 2018
+
 Skills
 ======
 * Language: English (CET-6 531, June 2018; IELTS 6.5, December 2018; Shanghai Gaokao 123/150, June 2017), French (TCF B1, July 2019; Postgraduate Entrance Exam 86/100, December 2020)
