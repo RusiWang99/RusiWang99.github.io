@@ -1,5 +1,5 @@
 ---
-title: "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network (JCR-Q1, Second author with Ph.D. supervisor as the first author)"
+title: "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network (SSCI, IF=5.3, 中科院大类一区, Second author with Ph.D. supervisor as the first author)"
 collection: publications
 permalink: /publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network
 excerpt: ''
