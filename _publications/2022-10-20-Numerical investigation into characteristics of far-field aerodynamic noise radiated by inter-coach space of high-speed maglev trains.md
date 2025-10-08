@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-20
 venue: 'Noise & Vibration Worldwide'
 paperurl: 'https://sage.cnpereading.com/paragraph/article/?doi=10.1177/09574565221128063'
-citation: 'Wang R, Huang J. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. Noise & Vibration Worldwide, 2022, 53(9-10): 464-479.'
+citation: 'Wang, R.*, & Huang, J. (2022). Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. Noise & Vibration Worldwide, 53(9-10), 464-479.'
 ---
 
 ## Abstract
