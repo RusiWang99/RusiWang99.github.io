@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-01-11
 venue: '105th Annual Meeting of the Transportation Research Board'
 paperurl: ''
-citation: 'Wang R, Xie C, Zou B, Fu X. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. 105th Annual Meeting of the Transportation Research Board. 2026.'
+citation: 'Wang, R., Xie, C., Zou, B., & Fu, X. (2026). Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at 105th Annual Meeting of the Transportation Research Board, Washington, D.C.'
 ---
 
 
