@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2024.09–present, Tongji University, Ph.D Student in Urban Mobility, College of Transportation
-* 2021.09–2024.05, Tongji University, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
+* 2024.09–present, Tongji University 🇨🇳, Ph.D Student in Urban Mobility, College of Transportation
+* 2021.09–2024.05, Tongji University 🇨🇳, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
 > In December 2017, I was selected into the "[Liren Honors Class of Project Pillars (壹系壹班)](https://www.zhihu.com/question/402607492/answer/1295742753), School of Information and Communication Engineering" (Top 5% of the School)
-* 2017.09–2021.07, University of Electronic Science and Technology of China, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
-* 2019.09–2020.02, [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/en/), Visiting Undergraduate Student (Awarded by China Scholarship Council, No.201906077013) (LISITE Lab)
-* 2014.09–2017.06, Shanghai Yan'an High School
+* 2017.09–2021.07, University of Electronic Science and Technology of China 🇨🇳, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
+* 2019.09–2020.02, [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/en/) 🇫🇷, Visiting Undergraduate Student (Awarded by China Scholarship Council, No.201906077013) (LISITE Lab)
+* 2014.09–2017.06, Shanghai Yan'an High School 🇨🇳
 
 Publications
 ======
@@ -38,7 +38,7 @@ Honors and Awards
 
 International Experience
 ======
-* Oxford University Academic Experience Programme, Oxford, UK (14-day programme), January 2018
+* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/info/1079/10748.htm) 🇬🇧 (14-day programme), January 2018
 
 Skills
 ======
