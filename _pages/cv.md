@@ -25,13 +25,13 @@ Publications
 
 Scholarships
 ======
-* Excellent Graduate Student Scholarship of Tongji University (Ranking: 3/32), December 2023
-* Excellent Student Scholarship of University of Electronic Science and Technology of China, (Ranking Top 20%), December 2019
+* Excellent Graduate Student Scholarship, Tongji University (Ranking: 3/32), December 2023
+* Excellent Student Scholarship, University of Electronic Science and Technology of China, (Ranking Top 20%), December 2019
 * Scholarship Under the State Scholarship Fund (€5,250.00), June 2019
+* Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China, December 2018
 
 Honors and Awards
 ======
-
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
 * Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
 
