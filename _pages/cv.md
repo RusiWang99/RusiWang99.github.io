@@ -34,3 +34,8 @@ Honors and Awards
 
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April, 2019
 * Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August, 2018
+
+Skills
+======
+* Language: English (CET-6 531, June, 2018; IELTS 6.5, December, 2018), French (TCF B1, July, 2019)
+* Programming: proficient in C++
