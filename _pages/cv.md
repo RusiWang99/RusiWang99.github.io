@@ -25,17 +25,17 @@ Publications
 
 Scholarships
 ======
-* Excellent Graduate Student Scholarship of Tongji University (Ranking: 3/32), December, 2023
-* Excellent Student Scholarship of University of Electronic Science and Technology of China, (Ranking Top 20%), December, 2019
-* Scholarship Under the State Scholarship Fund (€5,250.00), June, 2019
+* Excellent Graduate Student Scholarship of Tongji University (Ranking: 3/32), December 2023
+* Excellent Student Scholarship of University of Electronic Science and Technology of China, (Ranking Top 20%), December 2019
+* Scholarship Under the State Scholarship Fund (€5,250.00), June 2019
 
 Honors and Awards
 ======
 
-* Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April, 2019
-* Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August, 2018
+* Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
+* Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
 
 Skills
 ======
-* Language: English (CET-6 531, June, 2018; IELTS 6.5, December, 2018), French (TCF B1, July, 2019)
-* Programming: proficient in C++
+* Language: English (CET-6 531, June 2018; IELTS 6.5, December 2018; Shanghai Gaokao 123/150, June 2017), French (TCF B1, July 2019; Postgraduate Entrance Exam 86/100, December 2020)
+* Programming: proficient in C++, competent in modeling language such as GAMS
