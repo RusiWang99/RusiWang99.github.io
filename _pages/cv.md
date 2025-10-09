@@ -27,7 +27,7 @@ Publications
 Scholarships
 ======
 * Excellent Graduate Student Scholarship, Tongji University (Ranking: 3/32), December 2023
-* Excellent Student Scholarship, University of Electronic Science and Technology of China, (Ranking Top 20%), December 2019
+* Excellent Student Scholarship, University of Electronic Science and Technology of China, December 2019
 * Scholarship Under the State Scholarship Fund (€5,250.00), June 2019
 * Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China, December 2018
 
