@@ -9,7 +9,7 @@ redirect_from:
 
 I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree and my M.Eng. degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) and [Tongji University](https://www.tongji.edu.cn/) in 2021 and 2024, respectively. I am currently a Ph.D. student at [Urban Mobility Institute](http://umi.tongji.edu.cn/), Tongji University.
 
-I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) at TESLA starting from September 2024. My research interests lie in dynamic traffic assignment, multimodal transportation (incorporating car-hailing, ridesharing, carpooling, etc.), and travel demand management (e.g., road pricing, tradable credit scheme, booking cum rationing).
+I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) at Transport and Energy Systems Laboratory (TESLA) starting from September 2024. My research interests lie in dynamic traffic assignment, multimodal transportation (incorporating car-hailing, ridesharing, carpooling, etc.), and travel demand management (e.g., road pricing, tradable credit scheme, booking cum rationing).
 
 Let's be passionate!
 
@@ -20,7 +20,7 @@ Our paper ["Incorporating revenue loss and congestion cost into rail freight sub
 
 
 ## Join TESLA Research Group, 26 August 2024
-I'm excited to join the TESLA research group under the supervision of Professor Chi Xie, opening a new chapter in my research journey in operations research! 🚀
+I'm excited to join the TESLA—Transport and Energy Systems Laboratory—under the supervision of Professor Chi Xie, opening a new chapter in my research journey in operations research! 🚀
 
 
 <!--
