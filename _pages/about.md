@@ -14,7 +14,7 @@ I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/
 Let's be passionate!
 
 # NEWS
-## Paper accepted by the Transport Policy, 23 September 2025
+## Paper accepted by the Transport Policy, 21 September 2025
 
 Our paper ["Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network"](https://doi.org/10.1016/j.tranpol.2025.103819) is accepted by the [Transport Policy](https://www.sciencedirect.com/journal/transport-policy) (SSCI, IF=5.3).
 
