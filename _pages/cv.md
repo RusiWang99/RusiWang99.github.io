@@ -15,7 +15,7 @@ Education
 * 2021.09–2024.05, Tongji University 🇨🇳, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
 > In December 2017, I was selected into the "[Liren Honors Class of Project Pillars (壹系壹班)](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)", School of Information and Communication Engineering" (Top 5% of the School)
 * 2017.09–2021.07, University of Electronic Science and Technology of China 🇨🇳, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
-* 2019.09–2020.02, [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/en/) 🇫🇷, Visiting Undergraduate Student Awarded by China Scholarship Council ([国家留学基金委优秀本科生国际交流项目](https://www.csc.edu.cn/article/1426)), No.201906077013 (LISITE Lab)
+* 2019.09–2020.02, [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/en/) 🇫🇷, Visiting Undergraduate Student Awarded by China Scholarship Council ([国家留学基金委优秀本科生国际交流项目](https://www.csc.edu.cn/article/1426)), No.201906077013
 * 2014.09–2017.06, Shanghai Yan'an High School 🇨🇳
 
 Publications
@@ -39,6 +39,8 @@ Honors and Awards
 
 International Experience
 ======
+* Research Trainee at Institut Supérieur d'Électronique de Paris 🇫🇷
+Conducted research in the LISITE Lab under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
 * [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/info/1079/10748.htm) 🇬🇧 (14-day programme), January 2018
 
 Skills
