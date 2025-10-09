@@ -39,8 +39,7 @@ Honors and Awards
 
 International Experience
 ======
-* Research Trainee at Institut Supérieur d'Électronique de Paris 🇫🇷
-Conducted research in the LISITE Lab under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
+* Research Trainee at Institut Supérieur d'Électronique de Paris 🇫🇷, September 2019–February 2020. Conducted research in the LISITE Lab under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
 * [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/info/1079/10748.htm) 🇬🇧 (14-day programme), January 2018
 
 Skills
