@@ -34,7 +34,7 @@ Scholarships
 Honors and Awards
 ======
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
-* Second Prize (Ranking 6–20 of 288 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
+* Second Prize (Upperclassmen Group; Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
 * Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
 
 International Experience
