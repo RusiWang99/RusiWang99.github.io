@@ -23,53 +23,6 @@ Our paper ["Incorporating revenue loss and congestion cost into rail freight sub
 I'm excited to join the TESLA—Transport and Energy Systems Laboratory—under the supervision of Professor Chi Xie, opening a new chapter in my research journey in operations research! 🚀
 
 
-<!--
-## Won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities, December 13, 2023
-
-My final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing University of Posts and Telecommunications and Beijing Ordinary Higher Educational Institutions under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
-
-## Received the award of Outstanding Undergraduate Graduation of Beijing Ordinary Colleges and Universities, July 1, 2023
-
-I was awarded the honorary title of Outstanding Undergraduate Graduation of Beijing University of Posts and Telecommunications and Beijing Ordinary Colleges and Universities.
-
-## Received and accepted an official Ph.D offer from The Hong Kong University of Science and Technology, December 10, 2022
-
-Received and accepted an official Ph.D offer of computer science and engineering from [HKUST Fok Ying Tung Graduate School](https://fytgs.hkust.edu.hk/).
-
-
-## Finished my Mitacs globalink research internship at UBC, October 25, 2022
-
-I Finished my Mitacs globalink research internship at **UBC** under the supervision of Prof. Matei Ripeanu.
-
-## Paper accepted by the Journal of Software, August, 2022
-
-Our paper ["Multi-view fusion based moving target tracking using IR-UWB devices"]() is accepted by the [Journal of Software](http://www.jos.org.cn/josen/home).
-
-## Start my Mitacs globalink research internship at UBC, July 25, 2022
-
-I am doing my Mitacs globalink research internship at **UBC** under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/).
-
-Our research topics are approximation algorithms and dynamic-only algorithms in dynamic graph processing. 
-
-## Receive 2022 Mitacs GRI Offer, December 10, 2021
-
-I have been selected for a 2022 [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and accept my match offer.
-
-I have been matched with the following project: <br>
-Project Title: Massive-scale Graph Processing <br>
-Professor Name: **Matei Ripeanu** <br>
-Host University: **University of British Columbia – Vancouver**
--->
-
-
-
-<!--
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
