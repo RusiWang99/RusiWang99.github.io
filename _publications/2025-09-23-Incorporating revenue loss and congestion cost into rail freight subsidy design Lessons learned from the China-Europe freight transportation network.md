@@ -1,5 +1,5 @@
 ---
-title: "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network (SSCI, IF=5.3, 中科院大类一区, Second author with Ph.D. supervisor as the first author)"
+title: "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network (SSCI, IF=5.3, JCR Q1, CAS Tier 1-Top, Second author with Ph.D. supervisor as the first author)"
 collection: publications
 permalink: /publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network
 excerpt: 'This study addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model. Mitigating the revenue loss of the carrier and the congestion surcharge of shippers are considered simultaneously. The proposed optimization scheme is benchmarked against the currently implemented subsidy scheme to demonstrate its effectiveness.'
