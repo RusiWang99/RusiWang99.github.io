@@ -41,7 +41,7 @@ International Experience
 ======
 * Research Trainee at Institut Supérieur d'Électronique de Paris 🇫🇷, September 2019–February 2020
 > Conducted research in the [LISITE Lab](https://www.isep.fr/en/research-at-isep/) under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
-* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/info/1079/10748.htm) 🇬🇧 (14-day programme), January 2018
+* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/__local/2/4C/BB/27A567A3E5B5C7B359C5451CA54_CA427CB4_2DE9F7.pdf?e=.pdf) 🇬🇧, January 2018–February 2018
 
 Skills
 ======
