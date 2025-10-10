@@ -21,8 +21,3 @@ Our paper ["Incorporating revenue loss and congestion cost into rail freight sub
 
 ## Join TESLA Research Group, 26 August 2024
 I'm excited to join the TESLA—Transport and Energy Systems Laboratory—under the supervision of Professor Chi Xie, opening a new chapter in my research journey in operations research! 🚀
-
-
-## Receive Excellent Graduate Student Scholarship, 7 November 2023
-
-Honored to receive the Excellent Graduate Student Scholarship of Tongji University! In the last academic year, I achieved a weighted average score of 90.60/100, published a first-author EI journal article, and actively participated in multiple volunteer services. 🎉
