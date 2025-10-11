@@ -16,6 +16,7 @@ Self-sustain oscillation leads to aerodynamic noise at inter-coach space. It can
 
 High-speed maglev train, aerodynamic noise, inter-coach space, penetrable integration surface, quadrupole effect
 
+
 ## Timeline
 
-Received 3 April 2022, Revised 15 July 2022, Accepted 24 July 2022, Available online 20 October 2022.
+Received 3 April 2022; Received in revised form 15 July 2022; Accepted 24 July 2022; Available online 20 October 2022
