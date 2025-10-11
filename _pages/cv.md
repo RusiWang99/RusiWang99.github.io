@@ -25,9 +25,9 @@ Journal Articles
 ------
 Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-Chang. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)][[Click here](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network) to learn more] (SSCI, IF=5.3, JCR Q1, CAS Tier 1-Top)
 
-**Wang Rusi**, Huang Jingyu\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)] (EI, Scopus Q2)
+**Wang Rusi**, Huang Jingyu\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)][[Click here](https://rusiwang99.github.io/publication/2024-05-28-Interior%20noise%20prediction%20of%20inter-coach%20space%20of%20high-speed%20maglev%20trains%20based%20on%20wavenumber%20decomposition%20on%20aerodynamic%20excitation) to learn more] (EI, Scopus Q2)
 
-**Wang Rusi**, Huang Jingyu. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)] (EI)
+**Wang Rusi**, Huang Jingyu. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)][[Click here](https://rusiwang99.github.io/publication/2022-10-20-Numerical%20investigation%20into%20characteristics%20of%20far-field%20aerodynamic%20noise%20radiated%20by%20inter-coach%20space%20of%20high-speed%20maglev%20trains) to learn more] (EI)
 
 Conference Papers
 ------
