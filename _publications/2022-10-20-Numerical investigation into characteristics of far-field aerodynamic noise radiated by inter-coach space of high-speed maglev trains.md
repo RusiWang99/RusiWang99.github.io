@@ -1,5 +1,5 @@
 ---
-title: "Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains (EI, First author)"
+title: "Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains"
 collection: publications
 permalink: /publication/2022-10-20-Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains
 excerpt: ''
