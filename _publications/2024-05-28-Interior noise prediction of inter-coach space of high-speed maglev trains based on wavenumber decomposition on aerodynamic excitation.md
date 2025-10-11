@@ -20,4 +20,4 @@ High-speed maglev train, interior noise, inter-coach space, wavenumber-frequency
 
 ## Timeline
 
-Received 10 December 2023; Revised 10 March 2024; Accepted 14 March 2024; Available online 28 May 2024
+Received 10 December 2023; Received in revised form 10 March 2024; Accepted 14 March 2024; Available online 28 May 2024
