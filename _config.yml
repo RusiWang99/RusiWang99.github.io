@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wang, Rusi (Royce, 王铷锶)" # "Your name / Site Title"
 title_separator          : "-"
-name                     : &name "Rusi Wang（王铷锶）" # "Your name"
+name                     : &name "Rusi Wang" # "Your name"
 description              : &description "personal description"
 url                      : https://rusiwang99.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
