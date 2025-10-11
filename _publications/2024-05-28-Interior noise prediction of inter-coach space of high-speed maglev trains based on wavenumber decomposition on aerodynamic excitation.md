@@ -16,3 +16,8 @@ Current research on noise and vibration control of high-speed maglev trains pays
 ## Key words
 
 High-speed maglev train, interior noise, inter-coach space, wavenumber-frequency analysis, finite element methodboundary element method, statistical energy analysis
+
+
+## Timeline
+
+Received 10 December 2023; Revised 10 March 2024; Accepted 14 March 2024; Available online 28 May 2024
