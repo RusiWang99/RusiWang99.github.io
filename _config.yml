@@ -24,7 +24,9 @@ author:
   avatar           : "photowrs.jpg"
   name             : "Rusi Wang" # "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "B.Eng. @UESTC | M.Eng./Ph.D. student @Tongji\n(Wechat: rubiwrs)"
+  bio: |
+    B.Eng. @UESTC | M.Eng./Ph.D. student @Tongji
+    (Wechat: rubiwrs)
   location         : "Shanghai, China"
   employer         : "Tongji University"
   uri              : # URL
