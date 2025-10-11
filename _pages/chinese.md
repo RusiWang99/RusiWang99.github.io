@@ -22,11 +22,11 @@ author_profile: true
 
 期刊论文
 ------
-Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-Chang. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. (SSCI, IF=5.3, 中科院一区Top)
+Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-Chang. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)] (SSCI, IF=5.3, 中科院一区Top)
 
-**Wang Rusi**, Huang Jingyu\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. (EI)
+**Wang Rusi**, Huang Jingyu\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)] (EI)
 
-**Wang Rusi**, Huang Jingyu. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. (EI)
+**Wang Rusi**, Huang Jingyu. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)] (EI)
 
 会议论文
 ------
