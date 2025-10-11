@@ -54,5 +54,5 @@ International Experience
 
 Skills
 ======
-* Language: English (CET-6 531, June 2018; IELTS 6.5, December 2018; Shanghai Gaokao 123/150, June 2017), French (TCF B1, July 2019; Postgraduate Entrance Exam 86/100, December 2020)
+* Language: English (CET-6 531, June 2018; IELTS 6.5, December 2018), French (TCF B1, July 2019; Postgraduate Entrance Exam 86/100, December 2020)
 * Programming: proficient in C++ and in modeling language such as GAMS, competent in Python
