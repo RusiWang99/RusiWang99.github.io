@@ -16,3 +16,15 @@ author_profile: true
 * 2017年9月–2021年7月，电子科技大学，信息与通信工程学院，物联网工程专业（[壹系壹班](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)），工学学士学位
 * 2019年9月–2020年2月, 巴黎高等电子学院，国家留学基金委优秀本科生国际交流项目（“优本”项目）
 * 2014年9月–2017年6月，上海市延安中学
+
+学术成果
+======
+期刊论文
+------
+Xie Chi*, Wang Rusi, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-Chang. Evaluating and reallocating rail service subsidies in the China-Europe freight transportation market. Transport Policy, 2025, 174: 103819. (SSCI, IF=5.3, 中科院一区Top)
+Wang Rusi, Huang Jingyu*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. Noise & Vibration Worldwide, 2024, 55(6-7): 304-321. (EI)
+Wang Rusi*, Huang Jingyu. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. Noise & Vibration Worldwide, 2022, 53(9-10): 464-479. (EI)
+
+会议论文
+------
+Wang Rusi, Xie Chi*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at 105th Annual Meeting of the Transportation Research Board, Washington, D.C., 2026.
