@@ -15,3 +15,7 @@ Using the China-Europe freight transportation market as a real-world case, this 
 
 ## Key words
 China Railway Express, subsidy allocation, multimodal multicommodity transportation network, revenue loss, congestion surcharge
+
+## Timeline
+
+Received 22 July 2025; Received in revised form 7 September 2025; Accepted 21 September 2025; Available online 23 September 2025
