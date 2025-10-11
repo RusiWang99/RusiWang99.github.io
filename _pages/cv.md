@@ -23,7 +23,7 @@ Publications
 
 Journal Articles
 ------
-Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-Chang. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)][[Click here]([https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network)) to learn more] (SSCI, IF=5.3, JCR Q1, CAS Tier 1-Top)
+Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-Chang. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)][[Click here]([https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network) to learn more] (SSCI, IF=5.3, JCR Q1, CAS Tier 1-Top)
 
 **Wang Rusi**, Huang Jingyu\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)] (EI, Scopus Q2)
 
@@ -31,7 +31,7 @@ Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-
 
 Conference Papers
 ------
-**Wang Rusi**, Xie Chi\*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[Click here]([https://doi.org/10.1016/j.tranpol.2025.103819](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market)) to learn more]
+**Wang Rusi**, Xie Chi\*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[Click here]([https://doi.org/10.1016/j.tranpol.2025.103819](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market) to learn more]
 
 Scholarships
 ======
