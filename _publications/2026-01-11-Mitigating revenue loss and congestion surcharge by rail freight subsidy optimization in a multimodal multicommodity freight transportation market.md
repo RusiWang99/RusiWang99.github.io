@@ -1,5 +1,5 @@
 ---
-title: "Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market (First author)"
+title: "Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market"
 collection: publications
 permalink: /publication/2026-01-11-Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market
 excerpt: 'This study particularly analyzes the impact of adjusting the tradeoff between the interest of the carrier and shippers in freight subsidy design. It extends to detail the efficient algorithm from our *Transport Policy* journal paper, providing its full mathematical formulation.'
