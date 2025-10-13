@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Français"
 permalink: /francais/
 author_profile: true
 ---
