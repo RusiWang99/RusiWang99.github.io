@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /chinese/
+permalink: /français/
 author_profile: true
 ---
 
