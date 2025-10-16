@@ -21,3 +21,5 @@ High-speed maglev train, interior noise, inter-coach space, wavenumber-frequency
 ## Article History
 
 Received 11 December 2023; Received in revised form 10 March 2024; Accepted 14 March 2024; Available online 28 May 2024; Version of record 21 June 2024
+
+Indexed in Ei Compendex (Accession number: 20242316190297)
