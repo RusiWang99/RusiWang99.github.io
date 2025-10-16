@@ -20,4 +20,5 @@ High-speed maglev train, aerodynamic noise, inter-coach space, penetrable integr
 ## Article History
 
 Received 3 April 2022; Received in revised form 15 July 2022; Accepted 24 July 2022; Available online 20 October 2022; Version of record 17 November 2022
+
 Indexed in Ei Compendex (Accession number: 20224413023152)
