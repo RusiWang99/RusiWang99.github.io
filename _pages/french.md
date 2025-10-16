@@ -15,4 +15,5 @@ Formation
 * 2021.09 – 2024.05: Master en Génie de l'Exploitation des Véhicules, Institut des Transports Ferroviaires, Université de Tongji, Shanghai, Chine.
 * 2017.09 – 2021.07: Licence en Génie de l'Internet des Objets, École d'Ingénierie de l'Information et de la Communication, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 * 2019.09 – 2020.02: Étudiant invité de premier cycle (bourse du Conseil des Bourses de Chine), Institut Supérieur d'Électronique de Paris, Paris, France.
+> Formation intensive en français (niveau B1.1) à [l'Institut de Langue et de Culture Françaises (ILCF) - Institut Catholique de Paris (Université Paris Cité)](https://ilcf.icp.fr/). Obtenu la note A (unique dans une promotion de 14 étudiants de niveau homogène).
 * 2014.09 – 2017.06: Lycée Yan'an de Shanghai, Shanghai, Chine.
