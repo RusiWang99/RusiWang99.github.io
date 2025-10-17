@@ -5,9 +5,9 @@ permalink: /francais/
 author_profile: true
 ---
 
-Je suis né à Shanghai en février 1999. Je suis doctorant en mobilité urbaine (promotion 2024) à l'Institut de Mobilité Urbaine de l'Université de Tongji.
+Je suis né à Shanghai en février 1999. Je suis doctorant en mobilité urbaine (promotion 2024) à [l'Institut de Mobilité Urbaine](https://umi.tongji.edu.cn/) de l'Université de Tongji.
 
-Je suis encadré par le professeur Xie Chi au Laboratoire de Transport et Systèmes et d'Énergie (TESLA) de l'Université de Tongji depuis août 2024. Mon projet de recherche pré-thèse a porté sur la réallocation des subventions dans les réseaux de transport de fret conteneurisé. Mes recherches actuelles se concentrent sur l'affectation multimodale du trafic en contexte dynamique et sur la gestion dynamique de la demande de déplacement, incluant *le péage urbain*, *les systèmes de crédits mobiliers* et *la gestion couplée de la réservation et du rationnement d'accès*.
+Je suis encadré par le [Prof. Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) au Laboratoire de Transport et Systèmes et d'Énergie (TESLA) de l'Université de Tongji depuis août 2024. Mon projet de recherche pré-thèse a porté sur la réallocation des subventions dans les réseaux de transport de fret conteneurisé. Mes recherches actuelles se concentrent sur l'affectation multimodale du trafic en contexte dynamique et sur la gestion dynamique de la demande de déplacement, incluant *le péage urbain*, *les systèmes de crédits mobiliers* et *la gestion couplée de la réservation et du rationnement d'accès*.
 
 Formation
 ======
