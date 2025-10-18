@@ -18,4 +18,4 @@ China Railway Express, subsidy allocation, multimodal multicommodity transportat
 
 ## Article History
 
-Received 22 July 2025; Received in revised form 7 September 2025; Accepted 21 September 2025; Available online 23 September 2025
+Received 22 July 2025; Received in revised form 7 September 2025; Accepted 21 September 2025; Available online 23 September 2025; Version of record 18 October 2025
