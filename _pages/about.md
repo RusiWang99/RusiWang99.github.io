@@ -14,7 +14,7 @@ I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/
 # NEWS
 ## Paper accepted by *Transport Policy*, 21 September 2025
 
-The research paper "[Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network)", with my supervisor as the first author and me as the second author, is accepted by [*Transport Policy*](https://www.sciencedirect.com/journal/transport-policy) (SSCI, IF=5.3, **CAS Tier 1-Top**)[[PDF](https://rusiwang99.github.io/files/Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network.pdf)].
+The research paper "[Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network)", with my supervisor as the first author and me as the second author, is accepted by [*Transport Policy*](https://www.sciencedirect.com/journal/transport-policy) (SSCI, IF=5.3, **CAS Tier 1-Top**)[[PDF](https://rusiwang99.github.io/files/JTRP%20103819.pdf)].
 
 
 ## Join TESLA, 26 August 2024
