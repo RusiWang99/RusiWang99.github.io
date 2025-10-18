@@ -5,7 +5,7 @@ permalink: /publication/2025-09-23-Incorporating revenue loss and congestion cos
 excerpt: 'This study addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model. Mitigating the revenue loss of the carrier and the congestion surcharge of shippers are considered simultaneously. The proposed optimization scheme is benchmarked against the currently implemented subsidy scheme to demonstrate its effectiveness.'
 date: 2025-09-23
 venue: 'Transport Policy'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0967070X25003622?via%3Dihub'
+paperurl: 'https://rusiwang99.github.io/files/Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network.pdf'
 citation: 'Xie, C., Wang, R., Wang, D., Zou, B., Fu, X., Chen, X., & Lu, Q.-C. (2025). Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. Transport Policy, 174, 103819. https://doi.org/10.1016/j.tranpol.2025.103819'
 
 ---
