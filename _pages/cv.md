@@ -31,7 +31,7 @@ Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-
 
 Conference Papers
 ------
-**Wang Rusi**, Xie Chi\*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[Click here](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market) to learn more]
+**Wang Rusi**, Xie Chi\*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[Click here](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market) to learn more][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf)]
 
 Scholarships
 ======
