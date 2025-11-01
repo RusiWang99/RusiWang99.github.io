@@ -46,7 +46,7 @@ Scholarships
 * Scholarship Under the State Scholarship Fund (€5,250.00), June 2019
 * Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China, December 2018
 
-Honors and Awards
+Honors & Awards
 ======
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
 * Second Prize (Upperclassmen Group; Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
