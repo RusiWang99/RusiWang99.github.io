@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2024.09–present, Tongji University 🇨🇳, Ph.D Student in Urban Mobility, College of Transportation
-* 2021.09–2024.05, Tongji University 🇨🇳, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
-* 2017.09–2021.07, University of Electronic Science and Technology of China 🇨🇳, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
+* 2024.09–present, Tongji University <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="16" height="16"/>, Ph.D Student in Urban Mobility, College of Transportation
+* 2021.09–2024.05, Tongji University <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="16" height="16"/>, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
+* 2017.09–2021.07, University of Electronic Science and Technology of China <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="16" height="16"/>, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
 > In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)" (Top 5% of the School).
-* 2019.09–2020.02, Institut Supérieur d'Électronique de Paris 🇫🇷, Visiting Undergraduate Student Awarded by China Scholarship Council, No.201906077013
-* 2014.09–2017.06, Shanghai Yan'an High School 🇨🇳
+* 2019.09–2020.02, Institut Supérieur d'Électronique de Paris <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" width="16" height="16"/>, Visiting Undergraduate Student Awarded by China Scholarship Council, No.201906077013
+* 2014.09–2017.06, Shanghai Yan'an High School <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="16" height="16"/>
 
 Publications
 ======
@@ -48,9 +48,9 @@ Honors and Awards
 
 International Experience
 ======
-* Research Trainee at [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/) 🇫🇷, September 2019–February 2020
+* Research Trainee at [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/) <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" width="16" height="16"/>, September 2019–February 2020
 > Conducted research in the [LISITE Lab](https://www.isep.fr/en/research-at-isep/) under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
-* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/__local/2/4C/BB/27A567A3E5B5C7B359C5451CA54_CA427CB4_2DE9F7.pdf?e=.pdf) 🇬🇧, January 2018–February 2018
+* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/__local/2/4C/BB/27A567A3E5B5C7B359C5451CA54_CA427CB4_2DE9F7.pdf?e=.pdf) <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="16" height="16"/>, January 2018–February 2018
 
 Skills
 ======
