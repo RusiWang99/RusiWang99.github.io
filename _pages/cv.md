@@ -31,11 +31,11 @@ Xie Chi\*, **Wang Rusi**, Wang Dianlei, Zou Bo, Fu Xiaowen, Chen Xiqun, Lu Qing-
 
 Conference Papers
 ------
-**Wang Rusi**, Xie Chi\*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[Click here](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market) to learn more][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf)]
+**Wang Rusi**, Xie Chi\*, Zou Bo, Fu Xiaowen. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C. <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="18" height="18"/>, 2026. [[Click here](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market) to learn more][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf)]
 
 Scholarships
 ======
-* Excellent Graduate Student Scholarship, Tongji University (Ranking: 3/32), December 2023
+* Excellent Graduate Student Scholarship, Tongji University (Ranking: 2/32), December 2023
 * Excellent Student Scholarship, University of Electronic Science and Technology of China, December 2019
 * Scholarship Under the State Scholarship Fund (€5,250.00), June 2019
 * Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China, December 2018
