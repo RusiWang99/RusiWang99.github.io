@@ -11,6 +11,8 @@ I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree and 
 
 I am honored to be supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works&sortby=pubdate) at Transport and Energy Systems Laboratory (TESLA) since August 2024. I have completed a pre-dissertation research on subsidy reallocation in a containerized freight transportation network. My current research focuses on multimodal traffic assignment (incorporating car-hailing, ridesharing, carpooling, bus, etc.) and travel demand management (e.g., road pricing, tradable credit scheme, booking cum rationing) in a dynamic context.
 
+**For collaboration inquiries, please feel free to email me directly.**
+
 # NEWS
 ## Paper accepted by *105th TRB Annual Meeting*, 29 October 2025
 
