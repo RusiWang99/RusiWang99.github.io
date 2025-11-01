@@ -15,7 +15,7 @@ Education
 * 2021.09–2024.05, Tongji University <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
 * 2017.09–2021.07, University of Electronic Science and Technology of China <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
 > In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)" (Top 2% of the School).
-* 2019.09–2020.02, Institut Supérieur d'Électronique de Paris <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" width="18" height="18"/>, Visiting Undergraduate Student Awarded by China Scholarship Council, No.201906077013
+* 2019.09–2020.02, Institut Supérieur d'Électronique de Paris <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" width="18" height="18"/>, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC)
 * 2014.09–2017.06, Shanghai Yan'an High School <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>
 
 Publications
