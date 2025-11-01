@@ -63,7 +63,13 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
       {% if author.academia %}
-      <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right"></i>Academia</a></li>
+        <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right"></i>Academia</a></li>
+      {% endif %}
+      {% if author.hal %}
+        <li><a href="{{ author.hal }}"><i class="ai ai-hal ai-fw icon-pad-right"></i>HAL Science</a></li>
+      {% endif %}
+      {% if author.ciencia-vitae %}
+        <li><a href="{{ author.ciencia-vitae }}"><i class="ai ai-ciencia-vitae ai-fw icon-pad-right"></i>Ciência Vitae</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
