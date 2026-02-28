@@ -63,7 +63,15 @@ author_profile: true
 * 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Research Projects</h1>
-* 2026.02 – present, Participant, *System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction*, National Natural Science Foundation of China (General Program). PI: Prof. Chi Xie. (Proposal under preparation)
+
+* <details>
+    <summary>
+      2026.02 – present<span class="expand-icon"></span>, Participant, *System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction*, National Natural Science Foundation of China (General Program). PI: Prof. Chi Xie. (Proposal under preparation)
+    </summary>
+    <div style="margin-top: 5px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #ccc; font-size: 0.9em;">
+      Responsible for drafting the comprehensive literature review section of the grant proposal.
+    </div>
+  </details>
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Scholarships</h1>
 * 2023.12, Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32)
