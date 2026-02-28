@@ -69,7 +69,7 @@ author_profile: true
       2026.02 – present<span class="expand-icon"></span>, Participant, <i>System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction</i>, National Natural Science Foundation of China (General Program). PI: Prof. Chi Xie. (Proposal under preparation)
     </summary>
     <div style="margin-top: 5px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #ccc; font-size: 0.9em;">
-      Responsible for drafting the comprehensive literature review section of the grant proposal.
+      Conducted comprehensive literature review on large-scale vehicle-to-grid interaction and assisted in preliminary research for the project.
     </div>
   </details>
 
