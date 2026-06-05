@@ -70,4 +70,6 @@ author_profile: true
 <h2 style="border-bottom: none; margin-top: 20px; margin-bottom: 10px;">工作论文</h2>
 <span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. Linear programming formulation for dynamic user equilibrium based on Nesterov's stable dynamics. (拟投稿)
 
+<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. Congestion pricing in dynamic traffic networks based on Nesterov's stable dynamics. (稿件撰写中)
+
 </div>
