@@ -39,6 +39,45 @@ author_profile: true
   details[open] .expand-icon {
     transform: rotate(90deg);
   }
+  .name-hover {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dashed #999;
+    cursor: help;
+  }
+  .name-hover .tooltip-text {
+    visibility: hidden;
+    width: 360px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 6px 8px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -180px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+  }
+  .name-hover .tooltip-text::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #333 transparent transparent transparent;
+  }
+  .name-hover:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+  }
 </style>
 
 * <details>
@@ -64,14 +103,7 @@ author_profile: true
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Research Projects</h1>
 
-* <details>
-    <summary>
-      2026.02 – present<span class="expand-icon"></span>, Participant, <i>System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction</i>, National Natural Science Foundation of China (General Program). PI: Prof. Chi Xie. (Under review)
-    </summary>
-    <div style="margin-top: 5px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #ccc; font-size: 0.9em;">
-      Conducted comprehensive literature review on large-scale vehicle-to-grid interaction and assisted in preliminary research for the project.
-    </div>
-  </details>
+* 2026.02 – present, Participant, <span class="name-hover"><i>System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction</i><span class="tooltip-text">大规模车网互动的系统均衡、激励机制和设施配置</span></span>, National Natural Science Foundation of China. PI: Prof. Chi Xie. (Under review)
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Scholarships</h1>
 * 2023.12, Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32)
