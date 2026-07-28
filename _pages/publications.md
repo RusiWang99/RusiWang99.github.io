@@ -46,3 +46,4 @@ Chi Xie*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chan
 Collaborating authors including **Rusi Wang**. Resilient subsidy allocation for the China–Europe multimodal freight network under global disruption scenarios. *Working paper*.
 
 </div>
+::: ​​
