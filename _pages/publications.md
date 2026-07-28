@@ -34,7 +34,7 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 **Rusi Wang**, Chi Xie\*. A convex analytical formulation for dynamic user equilibrium based on Nesterov's static user equilibrium model. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10-14 January 2027. *To be submitted*. (To be extended for journal submission)
 
-**Rusi Wang**, Chi Xie\*. A convex analytical formulation for dynamic ridesharing user equilibrium on a time-expanded state network. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10-14 January 2027. *To be submitted*.
+**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic ridesharing user equilibrium. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10-14 January 2027. *To be submitted*.
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Working Papers</h1>
 
