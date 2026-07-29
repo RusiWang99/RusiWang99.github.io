@@ -32,7 +32,7 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 **Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 11-15 January 2026. [[View details](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market)][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf){:target="_blank"}]
 
-**Rusi Wang**, Chi Xie\*. A convex analytical formulation for dynamic user equilibrium based on Nesterov's static user equilibrium model. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10-14 January 2027. *To be submitted*. (To be extended for journal submission)
+**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium with maximum entropy flow selection. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10-14 January 2027. *To be submitted*.
 
 **Rusi Wang**, Chi Xie\*. A convex programming model for dynamic ridesharing user equilibrium. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10-14 January 2027. *To be submitted*.
 
