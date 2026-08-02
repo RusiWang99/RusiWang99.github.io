@@ -12,15 +12,15 @@ citation: 'Wang, R., & Xie, C. (2027). A convex programming model for dynamic ri
 
 ## Abstract
 
-**Objectives:**
+**Objectives:** Existing ridesharing user equilibrium models for general networks are mainly static, whereas dynamic models are limited to a single corridor. This study develops a dynamic ridesharing user equilibrium (DRUE) model that jointly determines traveler role, route, and departure time choices for multiple origin-destination (O-D) pairs on general networks.
 
-**Methods:**
+**Methods:** Solo drivers, ridesharing drivers, and ridesharing passengers are treated as three traveler roles in a time-expanded network representation, as connected by traversing, exit, queueing, departure, arrival, and transition links. Following Nesterov's capacity-constrained static user equilibrium model, the dual variables associated with road capacity constraints represent endogenous competition costs, while aggregate seat capacity constraints couple driver and passenger flows. The proposed DRUE modeling paradigm constructs a linear program that minimizes the total explicit system cost to characterize the equilibrium set and a convex program with linear constraints that maximizes the path flow entropy over the linear program's optimal face.
 
-**Findings:**
+**Findings:** The primal-dual optimality conditions of the linear programming model are equivalent to the Wardrop equilibrium conditions. When multiple path flow solutions exist, the convex program selects the statistically most probable DRUE flow pattern by maximizing the path flow entropy. The experiments show that higher demand may increase passenger participation without the proportional growth in vehicle flows.
 
-**Novelty:**
+**Novelty:** To the authors' knowledge, this is the first DRUE model for general traffic networks in the literature. One of its appealing features is that it guarantees a unique DRUE flow pattern, which is selected from the optimal face of the corresponding linear programming model.
 
-**Practical Applications:**
+**Practical Applications:** The model quantifies how demand, value of time, sharing inconvenience, seat capacity, and fare reshape dynamic ridesharing equilibrium patterns. It can be efficiently solved and favorably serve as a lower-level equilibrium response model for dynamic road pricing, capacity allocation, network design, and other travel demand management problems.
 
 ## Article History
 
