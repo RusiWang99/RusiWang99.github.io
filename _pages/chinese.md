@@ -67,13 +67,13 @@ author_profile: true
 <h2 style="border-bottom: none; margin-top: 20px; margin-bottom: 10px;">会议论文</h2>
 <span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>, <span class="name-hover">Bo Zou<span class="tooltip-text">邹博</span></span>, <span class="name-hover">Xiaowen Fu<span class="tooltip-text">符啸文</span></span>. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at <i>105th Annual Meeting of the Transportation Research Board</i>, Washington, D.C., U.S., 11-15 January 2026.
 
-<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic user equilibrium with maximum entropy flow selection. <i>106th Annual Meeting of the Transportation Research Board</i>, Washington, D.C., U.S., 10-14 January 2027. <i>To be submitted</i>.
-
-<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic ridesharing user equilibrium. <i>106th Annual Meeting of the Transportation Research Board</i>, Washington, D.C., U.S., 10-14 January 2027. <i>To be submitted</i>.
+<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic ridesharing user equilibrium. <i>106th Annual Meeting of the Transportation Research Board</i>, Washington, D.C., U.S., 10-14 January 2027. <i>Under review</i>.
 
 <h2 style="border-bottom: none; margin-top: 20px; margin-bottom: 10px;">工作论文</h2>
-<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex analytical formulation for dynamic user equilibrium based on Nesterov's static user equilibrium model. (拟投稿)
+<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex analytical formulation for dynamic user equilibrium based on Nesterov's static user equilibrium model.（拟投稿期刊）
 
-<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. Congestion pricing in dynamic traffic networks based on Nesterov's stable dynamics. (稿件撰写中)
+<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. Congestion pricing in dynamic traffic networks based on Nesterov's stable dynamics.（稿件撰写中）
+
+<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic user equilibrium with maximum entropy flow selection.（拟投稿会议）
 
 </div>
