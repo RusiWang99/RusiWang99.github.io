@@ -40,7 +40,7 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 **Rusi Wang**, Chi Xie\*. Congestion pricing in dynamic traffic networks based on Nesterov's stable dynamics. *Manuscript in preparation*.
 
-**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium with maximum entropy flow selection. *Planned for conference submission*.
+**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium with maximum entropy flow selection. *To be submitted to a conference*.
 
 Collaborating authors including **Rusi Wang**. Resilient subsidy allocation for the China–Europe multimodal freight network under global disruption scenarios. *Working paper*.
 
