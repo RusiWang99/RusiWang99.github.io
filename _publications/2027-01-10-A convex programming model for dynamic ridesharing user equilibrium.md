@@ -5,7 +5,7 @@ permalink: /publication/2027-01-10-A convex programming model for dynamic ridesh
 excerpt: 'This manuscript has been submitted to the 106th Annual Meeting of the Transportation Research Board and is currently under review.'
 date: 2027-01-10
 venue: '106th Annual Meeting of the Transportation Research Board'
-citation: 'Wang, R., & Xie, C. (2027). A convex programming model for dynamic ridesharing user equilibrium [Under review]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
+citation: 'Wang, R., & Xie, C. (2027, January 10–14). A convex programming model for dynamic ridesharing user equilibrium [Under review]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
 ---
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
