@@ -6,7 +6,7 @@ excerpt: 'This study particularly analyzes the impact of adjusting the tradeoff 
 date: 2026-01-11
 venue: '105th Annual Meeting of the Transportation Research Board'
 paperurl: 'https://rusiwang99.github.io/files/TRBAM-26-04956.pdf'
-citation: 'Wang, R., Xie, C., Zou, B., & Fu, X. (2026). Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. [Paper presentation]. 105th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
+citation: 'Wang, R., Xie, C., Zou, B., & Fu, X. (2026, January 11–15). Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. [Paper presentation]. 105th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
 ---
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
