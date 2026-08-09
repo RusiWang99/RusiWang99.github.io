@@ -20,7 +20,7 @@
   ],
   "email_domain": "@tongji.edu.cn",
   "homepage": "https://rusiwang99.github.io/",
-  "citedby": 3,
+  "citedby": 4,
   "publications": {
     "bBc5rVMAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -36,6 +36,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7755217923696085500",
       "cites_id": [
         "7755217923696085500"
+      ]
+    },
+    "bBc5rVMAAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network",
+        "pub_year": "2025",
+        "citation": "Transport Policy 174, 103819, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "bBc5rVMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16463407806533984894",
+      "cites_id": [
+        "16463407806533984894"
       ]
     },
     "bBc5rVMAAAAJ:u5HHmVD_uO8C": {
@@ -65,28 +81,17 @@
       "filled": false,
       "author_pub_id": "bBc5rVMAAAAJ:qjMakFHDy7sC",
       "num_citations": 0
-    },
-    "bBc5rVMAAAAJ:d1gkVwhDpl0C": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network",
-        "pub_year": "2025",
-        "citation": "Transport Policy 174, 103819, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "bBc5rVMAAAAJ:d1gkVwhDpl0C",
-      "num_citations": 0
     }
   },
-  "citedby5y": 3,
+  "citedby5y": 4,
   "hindex": 1,
   "hindex5y": 1,
   "i10index": 0,
   "i10index5y": 0,
   "cites_per_year": {
     "2024": 2,
-    "2025": 1
+    "2025": 1,
+    "2026": 1
   },
-  "updated": "2026-08-04 10:35:26.536303"
+  "updated": "2026-08-09 21:57:08.953714"
 }
