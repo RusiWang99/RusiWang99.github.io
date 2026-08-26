@@ -72,6 +72,6 @@ author_profile: true
 <span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic ridesharing user equilibrium. <i>106th Annual Meeting of the Transportation Research Board</i>, Washington, D.C., U.S., 10–14 January 2027.（审稿中）
 
 <h2 style="border-bottom: none; margin-top: 20px; margin-bottom: 10px;">工作论文</h2>
-<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic user equilibrium based on Nesterov's network equilibrium model.（拟投稿期刊）
+<span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic user equilibrium based on Nesterov’s network equilibrium model.（拟投稿期刊）
 
 </div>
