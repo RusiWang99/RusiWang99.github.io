@@ -11,8 +11,8 @@ author_profile: true
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Education</h1>
 
-* 2024.09 – present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
-* 2021.09 – 2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
+* 2024.09–present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
+* 2021.09–2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
 
 <style>
   details > summary {
@@ -87,7 +87,7 @@ author_profile: true
 
 * <details>
     <summary>
-      2017.09 – 2021.07<span class="expand-icon"></span>, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China
+      2017.09–2021.07<span class="expand-icon"></span>, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China
     </summary>
     <div style="margin-top: 5px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #ccc; font-size: 0.9em;">
       In December 2017, I was selected into the "<a href="https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A" target="_blank">Liren Honors Class of Project Pillars, School of Information and Communication Engineering</a>".
@@ -96,7 +96,7 @@ author_profile: true
 
 * <details>
     <summary>
-      2019.09 – 2020.02<span class="expand-icon"></span>, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
+      2019.09–2020.02<span class="expand-icon"></span>, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
     </summary>
     <div style="margin-top: 5px; padding: 10px; background-color: #f9f9f9; border-left: 3px solid #ccc; font-size: 0.9em;">
       <p style="margin-top: 0; margin-bottom: 10px;">Conducted research at <a href="https://www.isep.fr/en/research-at-isep/" target="_blank">Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications</a> under the supervision of <a href="https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en" target="_blank">Dr. Ercüment Yılmaz</a> (post-doctoral fellow) and <a href="https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra" target="_blank">Prof. Maria Trocan</a>, focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.</p>
@@ -104,11 +104,11 @@ author_profile: true
     </div>
   </details>
 
-* 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
+* 2014.09–2017.06, Shanghai Yan'an High School, Shanghai, China
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Research Projects</h1>
 
-* 2026.02 – present, Participant: <span class="project-hover"><i>System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction</i><span class="tooltip-text">大规模车网互动的系统均衡、激励机制和设施配置</span></span>. Supported by the General Program of the National Natural Science Foundation of China. Principal Investigator: Prof. Chi Xie.
+* 2027.01–2030.12, Participant: <span class="project-hover"><i>System Equilibrium, Incentive Mechanism, and Facility Allocation for Large-Scale Vehicle-to-Grid Interaction</i><span class="tooltip-text">大规模车网互动的系统均衡、激励机制和设施配置</span></span>. Supported by the General Program of the National Natural Science Foundation of China. Principal Investigator: Prof. Chi Xie.
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Scholarships</h1>
 * 2023.12, Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32)
