@@ -36,9 +36,9 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Working Papers</h1>
 
-**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium based on Nesterov's static user equilibrium model. *To be submitted to a journal*.
+**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium based on Nesterov's network equilibrium model. *To be submitted to a journal*.
 
-**Rusi Wang**, Chi Xie\*. Congestion pricing in dynamic traffic networks based on Nesterov's static user equilibrium model. *Manuscript in preparation*.
+**Rusi Wang**, Chi Xie\*. Congestion pricing in dynamic traffic networks based on Nesterov's network equilibrium model. *Manuscript in preparation*.
 
 **Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium with maximum entropy flow selection. *To be submitted to a conference*.
 
