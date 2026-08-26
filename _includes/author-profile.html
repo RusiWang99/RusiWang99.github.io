@@ -78,6 +78,9 @@
       {% if author.ciencia-vitae %}
         <li><a href="{{ author.ciencia-vitae }}" target="_blank"><i class="ai ai-ciencia-vitae ai-fw icon-pad-right"></i>Ciência Vitae</a></li>
       {% endif %}
+      {% if author.authenticus %}
+        <li><a href="{{ author.authenticus }}" target="_blank"><img src="{{ '/images/authenticus-icon-3d4144.png' | prepend: base_path }}" class="authenticus-icon" alt="" aria-hidden="true">Authenticus</a></li>
+      {% endif %}
 
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}" target="_blank"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
