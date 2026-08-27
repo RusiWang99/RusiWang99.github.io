@@ -140,7 +140,6 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
 
   .featured-publication__context {
     margin: 0 !important;
-    color: #7a7a7a;
     font-size: 0.75em;
     line-height: 1.1;
   }
@@ -171,7 +170,7 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
   </div>
   <div class="featured-publication__details">
     <p class="featured-publication__title"><a href="{{ '/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network' | relative_url }}">Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network</a></p>
-    <p class="featured-publication__context"><em>Pre-dissertation research</em></p>
+    <p class="featured-publication__context">Chi Xie*, <strong>Rusi Wang</strong>, Dianlei Wang, et al.; <em>Pre-dissertation research</em></p>
     <ul class="featured-publication__summary">
       <li>Addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.</li>
       <li>Considers the carrier’s revenue loss and shippers’ congestion surcharge simultaneously.</li>
