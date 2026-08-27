@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
-Hi there, I am Rusi Wang (Chinese name: 王铷锶), and you can call me "Royce". I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China){:target="_blank"} <span class="institution-rank" tabindex="0">[Rank]<span class="institution-rank__tooltip"><span>Project 985</span><span>First-round Double First-Class University (Class A, 2017)</span><span>QS World University Rankings 2027: #=488</span><span>U.S. News Best Global Universities 2026–2027: #=152</span></span></span> in 2021 and my M.Sc.(Eng.) degree from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University){:target="_blank"} <span class="institution-rank" tabindex="0">[Rank]<span class="institution-rank__tooltip"><span>Project 985</span><span>First-round Double First-Class University (Class A, 2017)</span><span>QS World University Rankings 2027: #146</span><span>U.S. News Best Global Universities 2026–2027: #110</span></span></span> in 2024. I am currently a Ph.D. candidate at [Urban Mobility Institute](http://umi.tongji.edu.cn/){:target="_blank"}, Tongji University.
+Hi there, I am Rusi Wang (Chinese name: 王铷锶), and you can call me "Royce". I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China){:target="_blank"}&nbsp;<span class="institution-rank" tabindex="0">[<span class="institution-rank__label">Rank</span>]<span class="institution-rank__tooltip"><span>Project 985</span><span>Double First-Class University (Class A)</span><span>QS World University Rankings 2027: #=488</span><span>U.S. News Best Global Universities 2026–2027: #=152</span></span></span> in 2021 and my M.Sc.(Eng.) degree from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University){:target="_blank"}&nbsp;<span class="institution-rank" tabindex="0">[<span class="institution-rank__label">Rank</span>]<span class="institution-rank__tooltip"><span>Project 985</span><span>Double First-Class University (Class A)</span><span>QS World University Rankings 2027: #146</span><span>U.S. News Best Global Universities 2026–2027: #110</span></span></span> in 2024. I am currently a Ph.D. candidate at [Urban Mobility Institute](http://umi.tongji.edu.cn/){:target="_blank"}, Tongji University.
 
 I have been supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works){:target="_blank"} at Transport and Energy Systems Laboratory (TESLA) [[📍Location](https://www.google.com/maps/place/4801+Caoan+Hwy,+Jia+Ding+Qu,+Shang+Hai+Shi,+China,+201804/@31.2810611,121.2100163,19z/data=!3m1!4b1!4m6!3m5!1s0x35b25cd3667ad407:0xa0105b5da462cc70!8m2!3d31.28106!4d121.21066!16s%2Fg%2F11r8dwp7vp?hl=en&entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D){:target="_blank"}] since August 2024, with a primary research interest in network modeling and optimization. I have completed a <em>pre-dissertation research</em> on subsidy reallocation in containerized freight transportation networks.
 
@@ -24,9 +24,12 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
   .institution-rank {
     position: relative;
     display: inline-block;
-    color: #3A83AA;
     cursor: help;
     white-space: nowrap;
+  }
+
+  .institution-rank__label {
+    border-bottom: 1px dashed #999;
   }
 
   .institution-rank__tooltip {
