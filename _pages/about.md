@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">About Me</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 0;">About Me</h1>
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
