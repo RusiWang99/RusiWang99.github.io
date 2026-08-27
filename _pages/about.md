@@ -130,8 +130,15 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
     margin: 0 0 0.45em !important;
   }
 
+  .featured-publication__context {
+    margin: 0 !important;
+    color: #7a7a7a;
+    font-size: 0.75em;
+    line-height: 1.1;
+  }
+
   .featured-publication__summary {
-    margin: 0.75em 0 0;
+    margin: 0.55em 0 0;
     padding-left: 1.25em;
   }
 
@@ -156,6 +163,7 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
   </div>
   <div class="featured-publication__details">
     <p class="featured-publication__title"><a href="{{ '/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network' | relative_url }}">Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network</a></p>
+    <p class="featured-publication__context"><em>pre-dissertation research</em></p>
     <ul class="featured-publication__summary">
       <li>Addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.</li>
       <li>Considers the carrier’s revenue loss and shippers’ congestion surcharge simultaneously.</li>

@@ -70,6 +70,10 @@ China Railway Express, subsidy allocation, multimodal multicommodity transportat
 
 ## Poster
 
+- Addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.
+- Considers the carrier’s revenue loss and shippers’ congestion surcharge simultaneously.
+- Compares the proposed optimization scheme with the currently implemented subsidy scheme to demonstrate its effectiveness.
+
 <img src="{{ '/images/china-europe-rail-freight-subsidy-poster.png' | relative_url }}" alt="Poster summarizing the Transport Policy study on China–Europe rail freight subsidy design" style="display: block; width: 100%; height: auto; margin: 0;">
 
 ## Article History
