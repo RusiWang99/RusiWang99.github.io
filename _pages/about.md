@@ -104,7 +104,9 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
     <p class="featured-publication__title"><a href="{{ '/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network' | relative_url }}">Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network</a></p>
     <p class="featured-publication__authors">Chi Xie*, <strong>Rusi Wang</strong>, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu</p>
     <ul class="featured-publication__summary">
-      <li>This study addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model. Mitigating the revenue loss of the carrier and the congestion surcharge of shippers are considered simultaneously. The proposed optimization scheme is benchmarked against the currently implemented subsidy scheme to demonstrate its effectiveness.</li>
+      <li>This study addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.</li>
+      <li>Mitigating the revenue loss of the carrier and the congestion surcharge of shippers are considered simultaneously.</li>
+      <li>The proposed optimization scheme is benchmarked against the currently implemented subsidy scheme to demonstrate its effectiveness.</li>
     </ul>
   </div>
 </div>
