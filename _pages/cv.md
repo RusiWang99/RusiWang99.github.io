@@ -42,7 +42,7 @@ Visiting Research & Academic Programs
 
 Scholarships
 ======
-* Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32), December 2023
+* Excellent Graduate Student Scholarship, Tongji University (¥5,000, Rank: 2/32), December 2023
 * Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000), December 2019
 * Scholarship Under the State Scholarship Fund (€5,250), June 2019
 * Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China (¥1,000), December 2018
