@@ -66,21 +66,26 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}" target="_blank"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
-      {% if author.academia %}
-        <li><a href="{{ author.academia }}" target="_blank"><i class="ai ai-academia ai-fw icon-pad-right"></i>Academia</a></li>
-      {% endif %}
-      {% if author.ideasrepec %}
-        <li><a href="{{ author.ideasrepec }}" target="_blank"><i class="ai ai-ideas-repec ai-fw icon-pad-right" aria-hidden="true"></i>Ideas RePEc</a></li>
-      {% endif %}
-      {% if author.hal %}
-        <li><a href="{{ author.hal }}" target="_blank"><i class="ai ai-hal ai-fw icon-pad-right"></i>HAL Science</a></li>
-      {% endif %}
-      {% if author.ciencia-vitae %}
-        <li><a href="{{ author.ciencia-vitae }}" target="_blank"><i class="ai ai-ciencia-vitae ai-fw icon-pad-right"></i>Ciência Vitae</a></li>
-      {% endif %}
-      {% if author.authenticus %}
-        <li><a href="{{ author.authenticus }}" target="_blank"><img src="{{ '/images/authenticus-icon-3d4144.png' | prepend: base_path }}" alt="" aria-hidden="true" style="display: inline-block; width: 1.25em; height: 1em; object-fit: contain; object-position: left center; vertical-align: -0.125em;">Authenticus</a></li>
-      {% endif %}
+      <li class="author__more">
+        <details>
+          <summary><i class="fas fa-fw fa-plus icon-pad-right author__more-icon author__more-icon--plus" aria-hidden="true"></i><i class="fas fa-fw fa-minus icon-pad-right author__more-icon author__more-icon--minus" aria-hidden="true"></i><span>More</span></summary>
+          <div class="author__more-reveal">
+            <ul class="author__more-links">
+              {% if author.academia %}
+                <li><a href="{{ author.academia }}" target="_blank"><i class="ai ai-academia ai-fw icon-pad-right"></i>Academia</a></li>
+              {% endif %}
+              {% if author.ideasrepec %}
+                <li><a href="{{ author.ideasrepec }}" target="_blank"><i class="ai ai-ideas-repec ai-fw icon-pad-right" aria-hidden="true"></i>Ideas RePEc</a></li>
+              {% endif %}
+              {% if author.hal %}
+                <li><a href="{{ author.hal }}" target="_blank"><i class="ai ai-hal ai-fw icon-pad-right"></i>HAL Science</a></li>
+              {% endif %}
+              {% if author.ciencia-vitae %}
+                <li><a href="{{ author.ciencia-vitae }}" target="_blank"><i class="ai ai-ciencia-vitae ai-fw icon-pad-right"></i>Ciência Vitae</a></li>
+              {% endif %}
+              {% if author.authenticus %}
+                <li><a href="{{ author.authenticus }}" target="_blank"><img src="{{ '/images/authenticus-icon-3d4144.png' | prepend: base_path }}" alt="" aria-hidden="true" style="display: inline-block; width: 1.25em; height: 1em; object-fit: contain; object-position: left center; vertical-align: -0.125em;">Authenticus</a></li>
+              {% endif %}
 
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}" target="_blank"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
@@ -172,7 +177,11 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="{{ author.zhihu }}" target="_blank"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+            </ul>
+          </div>
+        </details>
+      </li>
     </ul>
   </div>
 </div>

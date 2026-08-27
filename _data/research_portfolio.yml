@@ -1,0 +1,20 @@
+- id: transport-policy-2025
+  featured: true
+  venue: "Transport Policy"
+  title: "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network"
+  url: "/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network"
+  poster: "/images/china-europe-rail-freight-subsidy-poster.png"
+  poster_alt: "Poster summarizing the Transport Policy study on China–Europe rail freight subsidy design"
+  poster_aria_label: "Open the full-size Transport Policy poster"
+  authors:
+    - name: "Chi Xie"
+      corresponding: true
+    - name: "Rusi Wang"
+      highlighted: true
+    - name: "Dianlei Wang"
+  et_al: true
+  context: "Pre-dissertation research"
+  bullets:
+    - "Addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model."
+    - "Considers the carrier’s revenue loss and shippers’ congestion surcharge simultaneously."
+    - "Compares the proposed optimization scheme with the currently implemented subsidy scheme to demonstrate its effectiveness."

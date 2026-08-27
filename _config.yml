@@ -12,7 +12,7 @@ title                    : "Wang, Rusi (Royce, 王铷锶)" # "Your name / Site T
 browser_site_title       : "Rusi Wang’s Homepage"
 title_separator          : "-"
 name                     : &name "Rusi Wang" # "Your name"
-description              : &description "personal description"
+description              : &description "Rusi Wang is a Ph.D. candidate at Tongji University researching transportation network modeling, dynamic traffic assignment, and travel demand management optimization."
 url                      : https://rusiwang99.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RusiWang99/RusiWang99.github.io"
@@ -303,7 +303,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

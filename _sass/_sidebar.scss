@@ -258,3 +258,80 @@
     }
   }
 }
+
+.author__more {
+  white-space: normal !important;
+
+  details {
+    display: block;
+  }
+
+  summary {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    color: inherit;
+    font-size: $type-size-5;
+    list-style: none;
+    cursor: pointer;
+    user-select: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  .author__more-icon {
+    width: 1.23em;
+    text-align: center;
+  }
+
+  .author__more-icon--minus {
+    display: none;
+  }
+
+  details[open] {
+    .author__more-icon--plus {
+      display: none;
+    }
+
+    .author__more-icon--minus {
+      display: inline-block;
+    }
+
+    .author__more-reveal {
+      grid-template-rows: 1fr;
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
+      transition-delay: 0s;
+    }
+  }
+}
+
+.author__more-reveal {
+  display: grid !important;
+  grid-template-rows: 0fr;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: grid-template-rows 240ms ease, opacity 180ms ease,
+    visibility 0s linear 240ms;
+}
+
+.author__more-links {
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .author__more-reveal {
+    transition: none;
+  }
+}
