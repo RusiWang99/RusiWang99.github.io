@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Rusi Wang's homepage!"
+browser_title: "Rusi Wang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
