@@ -73,13 +73,8 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
     overflow-wrap: break-word;
   }
 
-  .featured-publication__title,
-  .featured-publication__authors {
+  .featured-publication__title {
     margin-bottom: 0.45em !important;
-  }
-
-  .featured-publication__authors {
-    line-height: 1.5;
   }
 
   .featured-publication__summary {
@@ -108,11 +103,10 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
   </div>
   <div class="featured-publication__details">
     <p class="featured-publication__title"><a href="{{ '/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network' | relative_url }}">Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network</a></p>
-    <p class="featured-publication__authors">Chi Xie*, <strong>Rusi Wang</strong>, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu</p>
     <ul class="featured-publication__summary">
-      <li>This study addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.</li>
-      <li>Mitigating the revenue loss of the carrier and the congestion surcharge of shippers are considered simultaneously.</li>
-      <li>The proposed optimization scheme is benchmarked against the currently implemented subsidy scheme to demonstrate its effectiveness.</li>
+      <li>Addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.</li>
+      <li>Considers the carrier’s revenue loss and shippers’ congestion surcharge simultaneously.</li>
+      <li>Compares the proposed optimization scheme with the currently implemented subsidy scheme to demonstrate its effectiveness.</li>
     </ul>
   </div>
 </div>

@@ -47,7 +47,7 @@ author_profile: true
   }
 </style>
 
-<div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
+<div style="text-align: justify; text-justify: inter-character;" markdown="1">
 
 我是王铷锶，目前是同济大学[城市交通研究院](https://umi.tongji.edu.cn/){:target="_blank"}城市交通专业的2024级博士研究生。我从2024年8月开始在同济大学交通与能源系统实验室（TESLA）接受[谢驰教授](https://tjjt.tongji.edu.cn/info/2996/9470.htm){:target="_blank"}的指导，研究兴趣为网络优化理论与方法。我已完成一项博士预研究，解决了集装箱货运网络中的补贴再分配问题。我的博士学位论文研究聚焦面向动态均衡交通网络的出行需求管理优化问题，其中主要的创新性贡献在于提出一种在大时空跨度范围内具有计算可行性、可容纳多模式交通（包括单独驾驶、网约车、共乘、巴士、地铁等，以及“驻车换乘”等组合模式）的解析类动态交通分配模型，并提出、分析与解决一类以该均衡模型为子模型的、具有特殊优化结构的出行需求管理（包括拥堵收费、可交易电子路票、“预约与配给”等）策略优化问题。
 
