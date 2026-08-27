@@ -179,7 +179,7 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
   </div>
 </div>
 
-[View all posters](/poster/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
+[View portfolio](/poster/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">News</h1>
 
