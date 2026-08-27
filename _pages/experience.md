@@ -104,6 +104,8 @@ author_profile: true
     </div>
   </details>
 
+* 2019.02–2019.06, Exchange Student, Department of Electrical Engineering, National University of Kaohsiung, Kaohsiung, Taiwan, China
+
 * 2014.09–2017.06, Shanghai Yan'an High School, Shanghai, China
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Research Projects</h1>
