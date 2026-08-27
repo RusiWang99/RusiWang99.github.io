@@ -24,6 +24,8 @@ authors:
       - "School of Transportation, Tongji University, China"
       - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
   - name: "Dianlei Wang"
+    email: "wangdianlei@tongji.edu.cn"
+    orcid: "0009-0006-7862-4114"
     affiliations:
       - "School of Transportation, Tongji University, China"
       - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"

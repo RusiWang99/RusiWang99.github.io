@@ -12,13 +12,16 @@ authors:
     orcid: "0000-0003-3375-4178"
     affiliations:
       - "Urban Mobility Institute, Tongji University, China"
+      - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
+      - "School of Transportation, Tongji University, China"
   - name: "Chi Xie"
     corresponding: true
     email: "chi.xie@tongji.edu.cn"
     orcid: "0000-0002-2350-0927"
     affiliations:
-      - "School of Transportation, Tongji University, China"
       - "Urban Mobility Institute, Tongji University, China"
+      - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
+      - "School of Transportation, Tongji University, China"
 publication:
   status: "Under review for presentation at the"
   venue: "106th Annual Meeting of the Transportation Research Board"

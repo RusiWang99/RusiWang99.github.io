@@ -14,6 +14,7 @@ authors:
     affiliations:
       - "Institute of Rail Transit, Tongji University, China"
   - name: "Jingyu Huang"
+    corresponding: true
     email: "huangjingyu@tongji.edu.cn"
     orcid: "0000-0001-6930-9354"
     affiliations:
