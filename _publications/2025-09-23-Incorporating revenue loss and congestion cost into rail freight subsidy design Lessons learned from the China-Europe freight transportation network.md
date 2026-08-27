@@ -40,6 +40,7 @@ authors:
   - name: "Xiqun Chen"
     email: "chenxiqun@zju.edu.cn"
     orcid: "0000-0001-8285-084X"
+    tooltip_align: "left"
     affiliations:
       - "International School of Business, Hainan University, China"
       - "College of Civil Engineering and Architecture, Zhejiang University, China"
