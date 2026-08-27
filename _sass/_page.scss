@@ -88,14 +88,9 @@
   transition: opacity 0.3s;
 }
 
-.publication-author:nth-child(n+3) .publication-author-tooltip {
+.publication-author-tooltip--opens-left {
   right: 0;
   left: auto;
-}
-
-.publication-author:nth-child(n+3) .publication-author-tooltip--left {
-  right: auto;
-  left: 0;
 }
 
 .publication-affiliation-line {
@@ -112,14 +107,20 @@
   border-color: #333 transparent transparent transparent;
 }
 
-.publication-author:nth-child(n+3) .publication-author-tooltip::after {
+.publication-author-tooltip--opens-left::after {
   right: 18px;
   left: auto;
 }
 
-.publication-author:nth-child(n+3) .publication-author-tooltip--left::after {
-  right: auto;
-  left: 18px;
+.publication-author-tooltip--below {
+  top: 135%;
+  bottom: auto;
+}
+
+.publication-author-tooltip--below::after {
+  top: auto;
+  bottom: 100%;
+  border-color: transparent transparent #333 transparent;
 }
 
 .publication-author-name:hover .publication-author-tooltip,

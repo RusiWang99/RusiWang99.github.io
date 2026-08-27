@@ -10,6 +10,7 @@ authors:
   - name: "Rusi Wang"
     email: "rusiwang@tongji.edu.cn"
     orcid: "0000-0003-3375-4178"
+    tooltip_vertical: "below"
     affiliations:
       - "Urban Mobility Institute, Tongji University, China"
       - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
@@ -18,6 +19,7 @@ authors:
     corresponding: true
     email: "chi.xie@tongji.edu.cn"
     orcid: "0000-0002-2350-0927"
+    tooltip_vertical: "below"
     affiliations:
       - "Urban Mobility Institute, Tongji University, China"
       - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"

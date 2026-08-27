@@ -12,6 +12,7 @@ authors:
     corresponding: true
     email: "chi.xie@tongji.edu.cn"
     orcid: "0000-0002-2350-0927"
+    tooltip_vertical: "below"
     affiliations:
       - "International School of Business, Hainan University, China"
       - "School of Transportation, Tongji University, China"
@@ -42,13 +43,13 @@ authors:
   - name: "Xiqun Chen"
     email: "chenxiqun@zju.edu.cn"
     orcid: "0000-0001-8285-084X"
-    tooltip_align: "left"
     affiliations:
       - "International School of Business, Hainan University, China"
       - "College of Civil Engineering and Architecture, Zhejiang University, China"
   - name: "Qing-Chang Lu"
     email: "qclu@chd.edu.cn"
     orcid: "0000-0001-9616-2271"
+    tooltip_horizontal: "left"
     affiliations:
       - "School of Electronics and Control Engineering, Chang’an University, China"
 publication:
