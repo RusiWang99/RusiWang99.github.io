@@ -18,7 +18,7 @@ So far, I have published several papers in peer-reviewed journals and conference
 
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en){:target="_blank"}, [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57941343300){:target="_blank"}, and [Web of Science](https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023){:target="_blank"} for citation metrics, and on [ResearchGate](https://www.researchgate.net/profile/Rusi-Wang-2){:target="_blank"}, [Academia](https://tongji.academia.edu/RusiWang){:target="_blank"}, or [HAL Science](https://cv.hal.science/rusi-wang){:target="_blank"} where postprints (accepted manuscripts) are available for download.
 
-In the lists below, * denotes the corresponding author.
+In the lists below, * denotes the corresponding author. CAS journal classifications are based on the 2025 edition.
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Journal Articles</h1>
 
