@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "News"
+browser_title: "News - Rusi Wang’s Homepage"
+hide_title: true
 permalink: /news/
 author_profile: true
 ---

@@ -5,25 +5,29 @@
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
+{% assign seo_site_title = site.browser_site_title | default: site.title %}
 
 {% if page.browser_title %}
   {% assign seo_title = page.browser_title | strip_html | strip_newlines | escape_once %}
 {% elsif page.title %}
-  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: seo_site_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
 {% if page.browser_title %}
   {% assign seo_meta_title = page.browser_title | strip_html | strip_newlines | escape_once %}
+{% elsif page.title %}
+  {% assign seo_meta_title = page.title | append: " " | append: site.title_separator | append: " " | append: seo_site_title %}
+  {% assign seo_meta_title = seo_meta_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% else %}
-  {% assign seo_meta_title = page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once %}
+  {% assign seo_meta_title = seo_site_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
 {% if site.url %}
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
+<title>{{ seo_title | default: seo_site_title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}

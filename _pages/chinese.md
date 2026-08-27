@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: ""
+browser_title: "同济大学王铷锶个人主页"
+hide_title: true
 permalink: /chinese/
 author_profile: true
 ---
@@ -76,3 +78,5 @@ author_profile: true
 <span class="name-hover"><strong>Rusi Wang</strong><span class="tooltip-text">王铷锶</span></span>, <span class="name-hover">Chi Xie*<span class="tooltip-text">谢驰</span></span>. A convex programming model for dynamic user equilibrium based on Nesterov’s network equilibrium model.（拟投稿期刊）
 
 </div>
+
+[Back](/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}

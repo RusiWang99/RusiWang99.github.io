@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Publications"
+browser_title: "Publications - Rusi Wang’s Homepage"
+hide_title: true
 permalink: /publications/
 author_profile: true
 ---
@@ -45,3 +47,5 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 Collaborating authors including **Rusi Wang**. Resilient subsidy allocation for the China–Europe multimodal freight network under global disruption scenarios. *Working paper*.
 
 </div>
+
+[Back](/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}

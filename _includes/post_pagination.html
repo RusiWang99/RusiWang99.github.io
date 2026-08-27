@@ -1,6 +1,20 @@
 {% include base_path %}
 
-{% if page.previous or page.next %}
+{% if page.collection == 'publications' %}
+  <nav class="publication-navigation" aria-label="Publication navigation">
+    {% if page.previous %}
+      <a href="{{ base_path }}{{ page.previous.url }}" class="btn btn--inverse" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+    {% else %}
+      <span class="btn btn--inverse disabled" aria-disabled="true">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</span>
+    {% endif %}
+    {% if page.next %}
+      <a href="{{ base_path }}{{ page.next.url }}" class="btn btn--inverse" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    {% else %}
+      <span class="btn btn--inverse disabled" aria-disabled="true">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</span>
+    {% endif %}
+    <a href="{{ '/publications/' | relative_url }}" class="btn btn--inverse publication-navigation__back">Back</a>
+  </nav>
+{% elsif page.previous or page.next %}
   <nav class="pagination">
     {% if page.previous %}
       <a href="{{ base_path }}{{ page.previous.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>

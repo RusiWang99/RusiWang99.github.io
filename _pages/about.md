@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-browser_title: "Rusi Wang’s Homepage"
+browser_title: "Rusi Wang’s Homepage - 同济大学王铷锶个人主页"
 author_profile: true
 redirect_from: 
   - /about/

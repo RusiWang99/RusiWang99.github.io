@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Experience"
+browser_title: "Experience - Rusi Wang’s Homepage"
+hide_title: true
 permalink: /experience/
 author_profile: true
 ---
@@ -9,7 +11,7 @@ author_profile: true
 
 <div lang="en" style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Education</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 15px;">Education</h1>
 
 * 2024.09–present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
 * 2021.09–2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
@@ -122,3 +124,5 @@ author_profile: true
 * 2018.08, First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest
 
 </div>
+
+[Back](/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}

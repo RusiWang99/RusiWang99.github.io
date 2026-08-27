@@ -167,6 +167,34 @@
   border-top: 1px solid $border-color;
 }
 
+.publication-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+  margin-top: 2em;
+  padding-top: 2em;
+  border-top: 1px solid $border-color;
+
+  .btn {
+    flex: 0 0 auto;
+    margin: 0;
+    font-size: 1em;
+    font-weight: normal;
+    text-decoration: none;
+  }
+
+  .disabled {
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: not-allowed;
+  }
+}
+
+.publication-navigation__back {
+  margin-left: auto !important;
+}
+
 
 /*
    Priority plus navigation
