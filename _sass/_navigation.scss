@@ -171,6 +171,9 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  clear: both;
+  width: 100%;
+  box-sizing: border-box;
   gap: 1em;
   margin-top: 2em;
   padding-top: 2em;
