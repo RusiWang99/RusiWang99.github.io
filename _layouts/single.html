@@ -27,7 +27,7 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}
-            <h1 class="page__title" itemprop="headline" style="text-align: justify; text-justify: inter-word; hyphens: auto;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+            <h1 class="page__title" itemprop="headline" style="text-align: justify; text-justify: inter-word; -webkit-hyphens: auto; hyphens: auto; hyphenate-limit-chars: 6 3 3; word-break: normal; overflow-wrap: normal;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
           {% endif %}
 
           {% if page.collection == 'publications' %}
