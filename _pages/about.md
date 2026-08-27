@@ -43,7 +43,7 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
     align-items: center;
     justify-content: center;
     min-height: 150px;
-    aspect-ratio: 2414 / 1238;
+    aspect-ratio: 16 / 9;
     border: 1px solid #c8dce7;
     background: #f3f8fa;
     color: #7a8288;
