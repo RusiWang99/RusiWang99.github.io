@@ -74,7 +74,7 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
   }
 
   .featured-publication__title {
-    margin-bottom: 0.45em !important;
+    margin: 0 0 0.45em !important;
   }
 
   .featured-publication__summary {
