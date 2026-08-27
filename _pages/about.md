@@ -19,6 +19,22 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
 </div>
 
+<div class="featured-publication">
+  <div class="featured-publication__visual">
+    <span class="featured-publication__badge">Transport Policy</span>
+    <div class="featured-publication__placeholder" role="img" aria-label="Poster placeholder for the Transport Policy paper">
+      <span>Poster forthcoming</span>
+    </div>
+  </div>
+  <div class="featured-publication__details">
+    <p class="featured-publication__title"><a href="{{ '/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network' | relative_url }}">Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network</a></p>
+    <p class="featured-publication__authors">Chi Xie*, <strong>Rusi Wang</strong>, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu</p>
+    <ul class="featured-publication__summary">
+      <li>Develops a bilevel subsidy optimization framework based on multimodal, multicommodity network equilibrium to jointly mitigate carrier revenue loss and shippers’ congestion surcharge.</li>
+    </ul>
+  </div>
+</div>
+
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">News</h1>
 
 {% assign sorted_news = site.news | sort: "date" | reverse %}
