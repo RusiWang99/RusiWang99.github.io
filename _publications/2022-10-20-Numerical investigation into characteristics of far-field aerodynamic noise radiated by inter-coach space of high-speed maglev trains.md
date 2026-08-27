@@ -7,6 +7,22 @@ date: 2022-10-20
 venue: 'Noise & Vibration Worldwide'
 paperurl: 'https://sage.cnpereading.com/paragraph/article/?doi=10.1177/09574565221128063'
 citation: 'Wang, R., & Huang, J. (2022). Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. Noise & Vibration Worldwide, 53(9-10), 464-479. https://doi.org/10.1177/09574565221128063'
+authors:
+  - name: "Rusi Wang"
+    email: "rusiwang@tongji.edu.cn"
+    orcid: "0000-0003-3375-4178"
+    affiliations:
+      - "Institute of Rail Transit, Tongji University, China"
+  - name: "Jingyu Huang"
+    email: "huangjingyu@tongji.edu.cn"
+    orcid: "0000-0001-6930-9354"
+    affiliations:
+      - "National Maglev Transportation Engineering R&D Center, Tongji University, China"
+publication:
+  status: "Published in"
+  venue: "Noise & Vibration Worldwide"
+  year: 2022
+  details: "vol. 53, nos. 9–10, pp. 464–479"
 ---
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">

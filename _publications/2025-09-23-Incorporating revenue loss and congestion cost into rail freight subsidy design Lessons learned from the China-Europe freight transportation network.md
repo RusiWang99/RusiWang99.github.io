@@ -7,6 +7,52 @@ date: 2025-09-23
 venue: 'Transport Policy'
 paperurl: 'https://rusiwang99.github.io/files/JTRP_103819.pdf'
 citation: 'Xie, C., Wang, R., Wang, D., Zou, B., Fu, X., Chen, X., & Lu, Q.-C. (2025). Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. Transport Policy, 174, 103819. https://doi.org/10.1016/j.tranpol.2025.103819'
+authors:
+  - name: "Chi Xie"
+    corresponding: true
+    email: "chi.xie@tongji.edu.cn"
+    orcid: "0000-0002-2350-0927"
+    affiliations:
+      - "International School of Business, Hainan University, China"
+      - "School of Transportation, Tongji University, China"
+      - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
+      - "Urban Mobility Institute, Tongji University, China"
+  - name: "Rusi Wang"
+    email: "rusiwang@tongji.edu.cn"
+    orcid: "0000-0003-3375-4178"
+    affiliations:
+      - "School of Transportation, Tongji University, China"
+      - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
+  - name: "Dianlei Wang"
+    affiliations:
+      - "School of Transportation, Tongji University, China"
+      - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
+  - name: "Bo Zou"
+    email: "bzou@uic.edu"
+    orcid: "0000-0003-4485-5548"
+    affiliations:
+      - "Department of Civil, Materials and Environmental Engineering, University of Illinois Chicago, United States"
+  - name: "Xiaowen Fu"
+    email: "xiaowen.fu@polyu.edu.hk"
+    orcid: "0000-0002-1925-046X"
+    affiliations:
+      - "Department of Industrial and Systems Engineering, Hong Kong Polytechnic University, Hong Kong"
+  - name: "Xiqun Chen"
+    email: "chenxiqun@zju.edu.cn"
+    orcid: "0000-0001-8285-084X"
+    affiliations:
+      - "International School of Business, Hainan University, China"
+      - "College of Civil Engineering and Architecture, Zhejiang University, China"
+  - name: "Qing-Chang Lu"
+    email: "qclu@chd.edu.cn"
+    orcid: "0000-0001-9616-2271"
+    affiliations:
+      - "School of Electronics and Control Engineering, Chang’an University, China"
+publication:
+  status: "Published in"
+  venue: "Transport Policy"
+  year: 2025
+  details: "vol. 174, article 103819"
 
 ---
 

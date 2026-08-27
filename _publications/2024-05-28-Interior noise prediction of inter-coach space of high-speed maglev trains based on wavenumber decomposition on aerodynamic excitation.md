@@ -7,6 +7,22 @@ date: 2024-05-28
 venue: 'Noise & Vibration Worldwide'
 paperurl: 'https://sage.cnpereading.com/paragraph/article/?doi=10.1177/09574565241252989'
 citation: 'Wang, R., & Huang, J. (2024). Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. Noise & Vibration Worldwide, 55(6-7), 304-321. https://doi.org/10.1177/09574565241252989'
+authors:
+  - name: "Rusi Wang"
+    email: "rusiwang@tongji.edu.cn"
+    orcid: "0000-0003-3375-4178"
+    affiliations:
+      - "Institute of Rail Transit, Tongji University, China"
+  - name: "Jingyu Huang"
+    email: "huangjingyu@tongji.edu.cn"
+    orcid: "0000-0001-6930-9354"
+    affiliations:
+      - "National Maglev Transportation Engineering R&D Center, Tongji University, China"
+publication:
+  status: "Published in"
+  venue: "Noise & Vibration Worldwide"
+  year: 2024
+  details: "vol. 55, nos. 6–7, pp. 304–321"
 ---
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">

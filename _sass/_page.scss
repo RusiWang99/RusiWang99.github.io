@@ -43,6 +43,119 @@
   }
 }
 
+/* Publication detail byline */
+.publication-authors {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2em 0.65em;
+  margin: 0.35em 0 0.15em;
+  line-height: 1.8;
+}
+
+.publication-author {
+  display: inline-flex;
+  align-items: baseline;
+  white-space: nowrap;
+}
+
+.publication-author-name {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dashed #999;
+  cursor: help;
+  font-weight: 400;
+}
+
+.publication-author-tooltip {
+  visibility: hidden;
+  position: absolute;
+  z-index: 20;
+  bottom: 135%;
+  left: 0;
+  width: max-content;
+  max-width: 720px;
+  padding: 7px 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.4;
+  text-align: left;
+  white-space: normal;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.publication-author:nth-child(n+3) .publication-author-tooltip {
+  right: 0;
+  left: auto;
+}
+
+.publication-affiliation-line {
+  display: block;
+}
+
+.publication-author-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 18px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #333 transparent transparent transparent;
+}
+
+.publication-author:nth-child(n+3) .publication-author-tooltip::after {
+  right: 18px;
+  left: auto;
+}
+
+.publication-author-name:hover .publication-author-tooltip,
+.publication-author-name:focus .publication-author-tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.publication-contact {
+  margin-left: 0.36em;
+  font-size: 0.82em;
+  line-height: 1;
+  text-decoration: none !important;
+}
+
+.publication-email {
+  color: #666;
+}
+
+.publication-orcid .ai-orcid {
+  color: #a6ce39 !important;
+}
+
+.publication-corresponding {
+  margin: 0 0 0.25em;
+  color: #666;
+  font-size: 0.82em;
+}
+
+.publication-details {
+  margin: 0 0 1.25em;
+}
+
+@media (max-width: 760px) {
+  .publication-author .publication-author-tooltip {
+    right: auto;
+    left: 0;
+    max-width: calc(100vw - 2rem);
+  }
+
+  .publication-author .publication-author-tooltip::after {
+    right: auto;
+    left: 18px;
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

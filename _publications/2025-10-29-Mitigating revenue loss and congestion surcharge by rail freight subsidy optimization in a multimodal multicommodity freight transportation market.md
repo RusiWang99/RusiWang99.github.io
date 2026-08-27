@@ -10,85 +10,34 @@ redirect_from:
 venue: '105th Annual Meeting of the Transportation Research Board'
 paperurl: 'https://rusiwang99.github.io/files/TRBAM-26-04956.pdf'
 citation: 'Wang, R., Xie, C., Zou, B., & Fu, X. (2026, January 11–15). Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. [Paper presentation]. 105th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
+authors:
+  - name: "Rusi Wang"
+    email: "rusiwang@tongji.edu.cn"
+    orcid: "0000-0003-3375-4178"
+    affiliations:
+      - "Urban Mobility Institute, Tongji University, China"
+  - name: "Chi Xie"
+    email: "chi.xie@tongji.edu.cn"
+    orcid: "0000-0002-2350-0927"
+    corresponding: true
+    affiliations:
+      - "School of Transportation, Tongji University, China"
+      - "Urban Mobility Institute, Tongji University, China"
+  - name: "Bo Zou"
+    email: "bzou@uic.edu"
+    orcid: "0000-0003-4485-5548"
+    affiliations:
+      - "Department of Civil, Materials and Environmental Engineering, University of Illinois Chicago, United States"
+  - name: "Xiaowen Fu"
+    email: "xiaowen.fu@polyu.edu.hk"
+    orcid: "0000-0002-1925-046X"
+    affiliations:
+      - "Department of Industrial and Systems Engineering, Hong Kong Polytechnic University, Hong Kong"
+publication:
+  status: "Presented at the"
+  venue: "105th Annual Meeting of the Transportation Research Board"
+  year: 2026
 ---
-
-<style>
-  .publication-authors {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0.25em 0.6em;
-    margin: 0 0 0.25em;
-    line-height: 1.8;
-  }
-  .publication-author {
-    display: inline-flex;
-    align-items: baseline;
-    white-space: nowrap;
-  }
-  .publication-author-name {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dashed #999;
-    cursor: help;
-  }
-  .publication-author-tooltip {
-    visibility: hidden;
-    width: max-content;
-    max-width: min(320px, 80vw);
-    background-color: #333;
-    color: #fff;
-    text-align: left;
-    white-space: normal;
-    border-radius: 5px;
-    padding: 7px 10px;
-    position: absolute;
-    z-index: 10;
-    bottom: 135%;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.3s;
-    font-size: 14px;
-    font-weight: normal;
-    line-height: 1.4;
-  }
-  .publication-author-tooltip::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 18px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #333 transparent transparent transparent;
-  }
-  .publication-author-name:hover .publication-author-tooltip,
-  .publication-author-name:focus .publication-author-tooltip {
-    visibility: visible;
-    opacity: 1;
-  }
-  .publication-orcid {
-    margin-left: 0.35em;
-    font-size: 0.82em;
-    white-space: nowrap;
-    text-decoration: none !important;
-  }
-  .publication-orcid .ai-orcid {
-    color: #a6ce39 !important;
-  }
-  .publication-corresponding {
-    margin: 0 0 1.4em;
-    color: #666;
-    font-size: 0.82em;
-  }
-</style>
-
-<div class="publication-authors" aria-label="Authors">
-  <span class="publication-author"><span class="publication-author-name" tabindex="0">Rusi Wang<span class="publication-author-tooltip" role="tooltip">Urban Mobility Institute<br>Tongji University<br>Shanghai, China</span></span><a class="publication-orcid" href="https://orcid.org/0000-0003-3375-4178" target="_blank" rel="noopener" aria-label="Rusi Wang ORCID"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a>,</span>
-  <span class="publication-author"><span class="publication-author-name" tabindex="0">Chi Xie*<span class="publication-author-tooltip" role="tooltip">School of Transportation<br>Urban Mobility Institute<br>Tongji University<br>Shanghai, China</span></span><a class="publication-orcid" href="https://orcid.org/0000-0002-5808-1742" target="_blank" rel="noopener" aria-label="Chi Xie ORCID"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a>,</span>
-  <span class="publication-author"><span class="publication-author-name" tabindex="0">Bo Zou<span class="publication-author-tooltip" role="tooltip">Department of Civil, Materials and Environmental Engineering<br>University of Illinois at Chicago<br>Chicago, Illinois, United States</span></span><a class="publication-orcid" href="https://orcid.org/0000-0003-4485-5548" target="_blank" rel="noopener" aria-label="Bo Zou ORCID"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a>,</span>
-  <span class="publication-author"><span class="publication-author-name" tabindex="0">Xiaowen Fu<span class="publication-author-tooltip" role="tooltip">Department of Industrial and Systems Engineering<br>Hong Kong Polytechnic University<br>Hong Kong</span></span><a class="publication-orcid" href="https://orcid.org/0000-0002-1925-046X" target="_blank" rel="noopener" aria-label="Xiaowen Fu ORCID"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></span>
-</div>
-<div class="publication-corresponding">* Corresponding author</div>
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 

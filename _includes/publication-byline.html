@@ -1,0 +1,38 @@
+{% if page.authors %}
+  <div class="publication-authors" aria-label="Authors">
+    {% for author in page.authors %}
+      <span class="publication-author">
+        <span class="publication-author-name" tabindex="0">
+          {{ author.name }}{% if author.corresponding %}*{% endif %}
+          {% if author.affiliations %}
+            <span class="publication-author-tooltip" role="tooltip">
+              {% for affiliation in author.affiliations %}
+                <span class="publication-affiliation-line">{{ affiliation }}</span>
+              {% endfor %}
+            </span>
+          {% endif %}
+        </span>
+        {% if author.email %}
+          <a class="publication-contact publication-email" href="mailto:{{ author.email }}" aria-label="Email {{ author.name }}" title="Email {{ author.name }}">
+            <i class="fas fa-envelope" aria-hidden="true"></i>
+          </a>
+        {% endif %}
+        {% if author.orcid %}
+          <a class="publication-contact publication-orcid" href="https://orcid.org/{{ author.orcid }}" target="_blank" rel="noopener" aria-label="{{ author.name }} ORCID" title="{{ author.name }} ORCID">
+            <i class="ai ai-orcid" aria-hidden="true"></i>
+          </a>
+        {% endif %}{% unless forloop.last %},{% endunless %}
+      </span>
+    {% endfor %}
+  </div>
+  {% assign corresponding_authors = page.authors | where: "corresponding", true %}
+  {% if corresponding_authors.size > 0 %}
+    <div class="publication-corresponding">* Corresponding author</div>
+  {% endif %}
+{% endif %}
+
+{% if page.publication %}
+  <p class="publication-details">
+    {{ page.publication.status }} <i>{{ page.publication.venue }}</i>, {{ page.publication.year }}{% if page.publication.details %}, {{ page.publication.details }}{% endif %}.
+  </p>
+{% endif %}

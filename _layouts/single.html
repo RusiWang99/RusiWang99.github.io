@@ -29,6 +29,10 @@ layout: default
           {% if page.title %}
             <h1 class="page__title" itemprop="headline" style="text-align: justify; text-justify: inter-word; hyphens: auto;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
           {% endif %}
+
+          {% if page.collection == 'publications' %}
+            {% include publication-byline.html %}
+          {% endif %}
           
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -39,6 +43,7 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' and page.publication %}
         {% elsif page.venue and page.date %}
           <p><i>{{ page.venue }}</i>, {{ page.display_date | default: page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}

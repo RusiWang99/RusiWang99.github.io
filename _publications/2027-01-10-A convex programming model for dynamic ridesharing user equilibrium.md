@@ -6,6 +6,23 @@ excerpt: 'This manuscript has been submitted to the 106th Annual Meeting of the 
 date: 2027-01-10
 venue: '106th Annual Meeting of the Transportation Research Board'
 citation: 'Wang, R., & Xie, C. (2027, January 10–14). A convex programming model for dynamic ridesharing user equilibrium [Under review]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
+authors:
+  - name: "Rusi Wang"
+    email: "rusiwang@tongji.edu.cn"
+    orcid: "0000-0003-3375-4178"
+    affiliations:
+      - "Urban Mobility Institute, Tongji University, China"
+  - name: "Chi Xie"
+    corresponding: true
+    email: "chi.xie@tongji.edu.cn"
+    orcid: "0000-0002-2350-0927"
+    affiliations:
+      - "School of Transportation, Tongji University, China"
+      - "Urban Mobility Institute, Tongji University, China"
+publication:
+  status: "Under review for presentation at the"
+  venue: "106th Annual Meeting of the Transportation Research Board"
+  year: 2027
 ---
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
