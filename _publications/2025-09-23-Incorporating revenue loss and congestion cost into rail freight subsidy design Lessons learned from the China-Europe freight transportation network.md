@@ -68,7 +68,7 @@ Using the China-Europe freight transportation market as a real-world case, this 
 ## Keywords
 China Railway Express, subsidy allocation, multimodal multicommodity transportation network, revenue loss, congestion surcharge
 
-## Poster
+## Highlights
 
 - Addresses the freight subsidy optimization problem based on a multimodal multicommodity network equilibrium model.
 - Considers the carrier’s revenue loss and shippers’ congestion surcharge simultaneously.
