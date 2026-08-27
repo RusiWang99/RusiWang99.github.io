@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 browser_title: "Rusi Wang’s Homepage"
 author_profile: true
@@ -65,6 +66,11 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
   .featured-publication__details {
     min-width: 0;
+    text-align: justify;
+    text-justify: inter-word;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;
   }
 
   .featured-publication__title,
