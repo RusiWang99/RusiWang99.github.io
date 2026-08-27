@@ -150,7 +150,9 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 <div class="featured-publication">
   <div class="featured-publication__visual">
     <span class="featured-publication__badge">Transport Policy</span>
-    <img class="featured-publication__poster" src="{{ '/images/featured-transport-policy-poster.png' | relative_url }}" alt="Poster summarizing the Transport Policy study on China–Europe rail freight subsidy design">
+    <a href="{{ '/images/featured-transport-policy-poster.png' | relative_url }}" aria-label="Open the full-size Transport Policy poster">
+      <img class="featured-publication__poster" src="{{ '/images/featured-transport-policy-poster.png' | relative_url }}" alt="Poster summarizing the Transport Policy study on China–Europe rail freight subsidy design">
+    </a>
   </div>
   <div class="featured-publication__details">
     <p class="featured-publication__title"><a href="{{ '/publication/2025-09-23-Incorporating revenue loss and congestion cost into rail freight subsidy design Lessons learned from the China-Europe freight transportation network' | relative_url }}">Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network</a></p>
