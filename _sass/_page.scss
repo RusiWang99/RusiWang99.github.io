@@ -93,7 +93,7 @@
   left: auto;
 }
 
-.publication-author .publication-author-tooltip--left {
+.publication-author:nth-child(n+3) .publication-author-tooltip--left {
   right: auto;
   left: 0;
 }
@@ -117,7 +117,7 @@
   left: auto;
 }
 
-.publication-author .publication-author-tooltip--left::after {
+.publication-author:nth-child(n+3) .publication-author-tooltip--left::after {
   right: auto;
   left: 18px;
 }
