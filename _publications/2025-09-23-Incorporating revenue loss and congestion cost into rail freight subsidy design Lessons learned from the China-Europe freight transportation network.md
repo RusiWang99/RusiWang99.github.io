@@ -68,6 +68,10 @@ Using the China-Europe freight transportation market as a real-world case, this 
 ## Keywords
 China Railway Express, subsidy allocation, multimodal multicommodity transportation network, revenue loss, congestion surcharge
 
+## Poster
+
+<img src="{{ '/images/china-europe-rail-freight-subsidy-poster.png' | relative_url }}" alt="Poster summarizing the Transport Policy study on China–Europe rail freight subsidy design" style="display: block; width: 100%; height: auto; margin: 0;">
+
 ## Article History
 
 Received 22 July 2025; Received in revised form 7 September 2025; Accepted 21 September 2025; Available online 23 September 2025; Version of record 18 October 2025
