@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: "Poster"
-browser_title: "Poster - Rusi Wang’s Homepage"
-hide_title: true
+title: "Research Portfolio"
+browser_title: "Research Portfolio - Rusi Wang’s Homepage"
 permalink: /poster/
 author_profile: true
 ---
