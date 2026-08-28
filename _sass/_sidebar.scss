@@ -328,6 +328,10 @@
   padding: 0;
   overflow: hidden;
   list-style: none;
+
+  li {
+    font-size: 1em;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
