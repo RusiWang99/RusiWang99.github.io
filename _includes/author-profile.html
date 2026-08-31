@@ -37,7 +37,7 @@
         <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" style="width: 1.23em; text-align: center;" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "rusiwang@tongji.edu.cn" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" style="text-align: center;" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "rusiwang@tongji.edu.cn" }}</a></li>
       {% endif %}
       
       {% if author.arxiv %}
@@ -88,7 +88,7 @@
                 <li><a href="{{ author.ciencia-vitae }}" target="_blank"><i class="ai ai-ciencia-vitae ai-fw icon-pad-right"></i>Ciência Vitae</a></li>
               {% endif %}
               {% if author.authenticus %}
-                <li><a href="{{ author.authenticus }}" target="_blank"><img src="{{ '/images/authenticus-icon-3d4144.png' | prepend: base_path }}" alt="" aria-hidden="true" style="display: inline-block; width: 1.25em; height: 1em; object-fit: contain; object-position: left center; vertical-align: -0.125em;">Authenticus</a></li>
+                <li><a href="{{ author.authenticus }}" target="_blank"><img src="{{ '/images/authenticus-icon-3d4144.png' | prepend: base_path }}" alt="" aria-hidden="true" style="display: inline-block; height: 1em; object-fit: contain; object-position: left center; vertical-align: -0.125em;">Authenticus</a></li>
               {% endif %}
 
       {% if author.bitbucket %}
