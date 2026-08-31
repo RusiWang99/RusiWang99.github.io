@@ -5,6 +5,9 @@
 {% endif %}
 {% assign author_display_name = page.author_name | default: author.name %}
 {% assign author_display_bio = page.author_bio | default: author.bio %}
+{% assign author_location = page.author_location | default: author.location %}
+{% assign author_employer = page.author_employer | default: author.employer %}
+{% assign author_email_label = page.author_email_label | default: site.data.ui-text[site.locale].email_label | default: "Email" %}
 {% assign author_follow_label = page.author_follow_label | default: "Follow" %}
 {% assign author_more_label = page.author_more_label | default: "More" %}
 
@@ -27,17 +30,17 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ author_follow_label }}</button>
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+      {% if author_location %}
+        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author_location }}</li>
       {% endif %}
-      {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-graduation-cap icon-pad-right" style="font-size: 0.725em;" aria-hidden="true"></i>{{ author.employer }}</li>
+      {% if author_employer %}
+        <li class="author__desktop"><i class="fas fa-graduation-cap icon-pad-right" style="font-size: 0.725em;" aria-hidden="true"></i>{{ author_employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" style="text-align: center;" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "rusiwang@tongji.edu.cn" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" style="text-align: center;" aria-hidden="true"></i>{{ author_email_label }}</a></li>
       {% endif %}
       
       {% if author.arxiv %}

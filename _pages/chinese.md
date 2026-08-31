@@ -10,6 +10,9 @@ masthead_name: "王铷锶"
 masthead_home: /chinese/
 author_name: "王铷锶"
 author_bio: "交通网络均衡建模与优化"
+author_location: "中国上海"
+author_employer: "同济大学"
+author_email_label: "电子邮箱"
 author_follow_label: "关注"
 author_more_label: "更多"
 ---
