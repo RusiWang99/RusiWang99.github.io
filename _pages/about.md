@@ -10,7 +10,7 @@ redirect_from:
 
 <header class="home-identity">
   <h1 class="home-identity__name">Rusi Wang</h1>
-  <p class="home-identity__affiliation">Ph.D. candidate at <a href="https://www.tongji.edu.cn/" target="_blank" rel="noopener noreferrer">Tongji University</a></p>
+  <p class="home-identity__affiliation">Ph.D. candidate at <a href="https://en.wikipedia.org/wiki/Tongji_University" target="_blank" rel="noopener noreferrer">Tongji University</a></p>
 </header>
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
@@ -92,7 +92,7 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
 
 </style>
 
-<h2 class="home-selected-publications"><a href="{{ '/publications/' | relative_url }}">Selected Publications</a></h2>
+<h1 class="home-section-title">Selected Publications</h1>
 
 {% assign featured_portfolio = site.data.research_portfolio | where: "featured", true %}
 {% for item in featured_portfolio limit: 3 %}
@@ -101,7 +101,7 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
 
 [View portfolio](/research_portfolio/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
 
-<h1 class="home-news-heading">News</h1>
+<h1 class="home-section-title">News</h1>
 
 {% assign sorted_news = site.news | sort: "date" | reverse %}
 {% for news in sorted_news limit:3 %}

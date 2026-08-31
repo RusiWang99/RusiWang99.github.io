@@ -6,7 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg{% if page.url == '/' %} masthead__menu-item--home{% endif %}">{% unless page.url == '/' %}<a href="{{ base_path }}/">{{ site.name }}</a>{% endunless %}</li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-item--identity{% if page.url == '/' %} masthead__menu-item--home{% endif %}">{% unless page.url == '/' %}<a href="{{ base_path }}/">{{ site.name }}</a>{% endunless %}</li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

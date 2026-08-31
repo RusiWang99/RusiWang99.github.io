@@ -120,6 +120,19 @@ hr,
   background: var(--rw-masthead-border);
 }
 
+.greedy-nav .visible-links .masthead__menu-item--identity > a::before {
+  display: none !important;
+  content: none !important;
+  transform: none !important;
+}
+
+.masthead__menu-item--identity > a:hover,
+.masthead__menu-item--identity > a:focus-visible {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
 .greedy-nav .hidden-links,
 .author__urls,
 .modal {
