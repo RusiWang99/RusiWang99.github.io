@@ -197,14 +197,24 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
-    &:hover {
+    &:hover,
+    &:focus-visible {
       text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
+    }
+  }
+
+  a.btn,
+  a.image-popup,
+  .publication-contact {
+    &:hover,
+    &:focus-visible {
+      text-decoration: none;
     }
   }
 

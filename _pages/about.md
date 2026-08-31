@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<header class="home-identity">
+  <h1 class="home-identity__name">Rusi Wang</h1>
+  <p class="home-identity__affiliation">Ph.D. candidate at <a href="https://www.tongji.edu.cn/" target="_blank" rel="noopener noreferrer">Tongji University</a></p>
+</header>
+
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
 Hi there, I am Rusi Wang (Chinese name: 王铷锶), and you can call me "Royce". I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China){:target="_blank"}&nbsp;<span class="institution-rank" tabindex="0">[<span class="institution-rank__label">Rank</span>]<span class="institution-rank__tooltip"><span>Project 985</span><span>Double First-Class University (Class A)</span><span>QS World University Rankings 2027: #=488</span><span>U.S. News Best Global Universities 2026–2027: #=152</span></span></span> in 2021 and my M.Sc.(Eng.) degree from <span class="institution-name-with-rank"><a href="https://en.wikipedia.org/wiki/Tongji_University" target="_blank">Tongji University</a>&nbsp;<span class="institution-rank institution-rank--opens-left" tabindex="0">[<span class="institution-rank__label">Rank</span>]<span class="institution-rank__tooltip"><span>Project 985</span><span>Double First-Class University (Class A)</span><span>QS World University Rankings 2027: #146</span><span>U.S. News Best Global Universities 2026–2027: #110</span></span></span></span> in 2024. I am currently a Ph.D. candidate at [Urban Mobility Institute](http://umi.tongji.edu.cn/){:target="_blank"}, Tongji University.
@@ -87,6 +92,8 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
 
 </style>
 
+<h2 class="home-selected-publications"><a href="{{ '/publications/' | relative_url }}">Selected Publications</a></h2>
+
 {% assign featured_portfolio = site.data.research_portfolio | where: "featured", true %}
 {% for item in featured_portfolio limit: 3 %}
   {% include research-card.html item=item %}
@@ -94,7 +101,7 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
 
 [View portfolio](/research_portfolio/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">News</h1>
+<h1 class="home-news-heading">News</h1>
 
 {% assign sorted_news = site.news | sort: "date" | reverse %}
 {% for news in sorted_news limit:3 %}

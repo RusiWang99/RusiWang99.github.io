@@ -8,7 +8,7 @@
   </div>
   <div class="featured-publication__details">
     <p class="featured-publication__title"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></p>
-    <p class="featured-publication__context">{% for author in item.authors %}{% if author.highlighted %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% if author.corresponding %}*{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% if item.et_al %}, et al.{% endif %}{% if item.context %}; <em>{{ item.context }}</em>{% endif %}</p>
+    <p class="featured-publication__context">{% for author in item.authors %}{% if author.highlighted %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% if author.corresponding %}*{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% if item.et_al %}, et al.{% endif %}{% if item.year %} ({{ item.year }}){% endif %}{% if item.context %}; <em>{{ item.context }}</em>{% endif %}</p>
     <ul class="featured-publication__summary">
       {% for bullet in item.bullets %}<li>{{ bullet }}</li>{% endfor %}
     </ul>

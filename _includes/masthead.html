@@ -6,7 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg{% if page.url == '/' %} masthead__menu-item--home{% endif %}">{% unless page.url == '/' %}<a href="{{ base_path }}/">{{ site.name }}</a>{% endunless %}</li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -18,6 +18,11 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <button class="masthead__theme-toggle" id="theme-toggle" type="button" aria-label="Theme: System. Activate to switch to light mode." title="Theme: System">
+        <i class="fas fa-circle-half-stroke" data-theme-icon="system" aria-hidden="true"></i>
+        <i class="fas fa-sun" data-theme-icon="light" aria-hidden="true" hidden></i>
+        <i class="fas fa-moon" data-theme-icon="dark" aria-hidden="true" hidden></i>
+      </button>
     </div>
   </div>
 </div>
