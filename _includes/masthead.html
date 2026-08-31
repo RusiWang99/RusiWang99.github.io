@@ -1,6 +1,10 @@
 {% include base_path %}
 {% assign masthead_name = page.masthead_name | default: site.name %}
 {% assign masthead_home = page.masthead_home | default: "/" %}
+{% assign masthead_is_homepage = false %}
+{% if page.url == '/' or page.masthead_homepage %}
+  {% assign masthead_is_homepage = true %}
+{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -8,8 +12,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-item--identity{% if page.url == '/' %} masthead__menu-item--home{% endif %}">
-            {% if page.url == '/' %}
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-item--identity{% if masthead_is_homepage %} masthead__menu-item--home{% endif %}">
+            {% if masthead_is_homepage %}
               <a class="masthead__identity-mobile" href="{{ base_path }}{{ masthead_home }}">{{ masthead_name }}</a>
             {% else %}
               <a href="{{ base_path }}{{ masthead_home }}">{{ masthead_name }}</a>

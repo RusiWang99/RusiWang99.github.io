@@ -8,6 +8,7 @@ author_profile: true
 lang: zh-CN
 masthead_name: "王铷锶"
 masthead_home: /chinese/
+masthead_homepage: true
 author_name: "王铷锶"
 author_bio: "交通网络均衡建模与优化"
 author_location: "中国上海"
@@ -58,6 +59,11 @@ author_more_label: "更多"
     opacity: 1;
   }
 </style>
+
+<header class="home-identity">
+  <h1 class="home-identity__name">王铷锶</h1>
+  <p class="home-identity__affiliation"><a href="https://www.tongji.edu.cn/" target="_blank" rel="noopener noreferrer">同济大学</a>博士研究生</p>
+</header>
 
 <div style="text-align: justify; text-justify: inter-character;" markdown="1">
 
