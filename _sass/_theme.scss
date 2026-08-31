@@ -311,3 +311,30 @@ html[data-theme="dark"] {
   background-color: var(--rw-search-highlight);
   color: var(--rw-text);
 }
+
+.citation-badge-link {
+  display: inline-block;
+  line-height: 1;
+  text-decoration: none;
+  vertical-align: -0.1em;
+}
+
+.citation-badge {
+  display: block;
+  width: auto;
+  height: 17px;
+}
+
+.citation-badge--dark {
+  display: none;
+}
+
+html[data-theme="dark"] {
+  .citation-badge--light {
+    display: none;
+  }
+
+  .citation-badge--dark {
+    display: block;
+  }
+}
