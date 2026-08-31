@@ -148,6 +148,14 @@ hr,
   border-color: var(--rw-surface-raised) transparent;
 }
 
+@include breakpoint($large) {
+  .author__urls {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+}
+
 .author__avatar img {
   border-color: var(--rw-line);
 }
