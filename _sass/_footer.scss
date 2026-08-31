@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: var(--rw-footer-bg, #15191b);
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  border-top: 1px solid var(--rw-masthead-border, rgba(58, 131, 170, 0.28));
   color: var(--rw-footer-text, #c7cdd1);
   z-index: 15;
 

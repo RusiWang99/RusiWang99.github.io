@@ -62,6 +62,10 @@
   }
 }
 
+.masthead__identity-mobile {
+  display: none !important;
+}
+
 .masthead__theme-toggle {
   position: absolute;
   top: 50%;
@@ -113,5 +117,13 @@
     width: 118px;
     min-width: 118px;
     padding-right: 1em;
+  }
+
+  .masthead__identity-mobile {
+    display: inline-block !important;
+  }
+
+  .masthead__menu-item--mobile-redundant {
+    display: none !important;
   }
 }
