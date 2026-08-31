@@ -123,7 +123,7 @@
     display: inline-block !important;
   }
 
-  .masthead__menu-item--mobile-redundant {
+  .greedy-nav .visible-links > .masthead__menu-item:not(.masthead__menu-item--lg) {
     display: none !important;
   }
 }
