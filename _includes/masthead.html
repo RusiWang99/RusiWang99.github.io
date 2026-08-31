@@ -1,4 +1,6 @@
 {% include base_path %}
+{% assign masthead_name = page.masthead_name | default: site.name %}
+{% assign masthead_home = page.masthead_home | default: "/" %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -8,9 +10,9 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-item--identity{% if page.url == '/' %} masthead__menu-item--home{% endif %}">
             {% if page.url == '/' %}
-              <a class="masthead__identity-mobile" href="{{ base_path }}/">{{ site.name }}</a>
+              <a class="masthead__identity-mobile" href="{{ base_path }}{{ masthead_home }}">{{ masthead_name }}</a>
             {% else %}
-              <a href="{{ base_path }}/">{{ site.name }}</a>
+              <a href="{{ base_path }}{{ masthead_home }}">{{ masthead_name }}</a>
             {% endif %}
           </li>
           {% for link in site.data.navigation.main %}

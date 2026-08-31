@@ -3,25 +3,29 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{% assign author_display_name = page.author_name | default: author.name %}
+{% assign author_display_bio = page.author_bio | default: author.bio %}
+{% assign author_follow_label = page.author_follow_label | default: "Follow" %}
+{% assign author_more_label = page.author_more_label | default: "More" %}
 
-<div itemscope itemtype="http://schema.org/Person">
+<div class="author-profile{% if page.author_bio %} author-profile--localized{% endif %}" itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+	<img src="{{ author.avatar }}" alt="{{ author_display_name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author_display_name }}">
     {% endif %}
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">{{ author_display_name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author_display_bio %}<p class="author__bio">{{ author_display_bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">{{ author_follow_label }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
@@ -68,7 +72,7 @@
       {% endif %}
       <li class="author__more">
         <details>
-          <summary><i class="fas fa-fw fa-plus icon-pad-right author__more-icon author__more-icon--plus" aria-hidden="true"></i><i class="fas fa-fw fa-minus icon-pad-right author__more-icon author__more-icon--minus" aria-hidden="true"></i><span>More</span></summary>
+          <summary><i class="fas fa-fw fa-plus icon-pad-right author__more-icon author__more-icon--plus" aria-hidden="true"></i><i class="fas fa-fw fa-minus icon-pad-right author__more-icon author__more-icon--minus" aria-hidden="true"></i><span>{{ author_more_label }}</span></summary>
           <div class="author__more-reveal">
             <ul class="author__more-links">
               {% if author.academia %}

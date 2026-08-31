@@ -1,1 +1,5 @@
-<div class="page__footer-copyright">Copyright &copy; {{ site.time | date: "%Y" }} Rusi Wang. Last updated: {{ site.time | date: "%B %d, %Y" }}.</div>
+{% if page.lang == "zh-CN" %}
+  <div class="page__footer-copyright">版权所有 &copy; {{ site.time | date: "%Y" }} 王铷锶。最后更新：{{ site.time | date: "%Y年%-m月%-d日" }}。</div>
+{% else %}
+  <div class="page__footer-copyright">Copyright &copy; {{ site.time | date: "%Y" }} Rusi Wang. Last updated: {{ site.time | date: "%B %d, %Y" }}.</div>
+{% endif %}

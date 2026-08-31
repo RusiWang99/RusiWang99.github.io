@@ -5,6 +5,13 @@ browser_title: "同济大学王铷锶个人主页"
 hide_title: true
 permalink: /chinese/
 author_profile: true
+lang: zh-CN
+masthead_name: "王铷锶"
+masthead_home: /chinese/
+author_name: "王铷锶"
+author_bio: "交通网络均衡建模与优化"
+author_follow_label: "关注"
+author_more_label: "更多"
 ---
 
 <style>

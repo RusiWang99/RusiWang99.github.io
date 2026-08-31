@@ -153,6 +153,10 @@
   }
 }
 
+.author-profile--localized .author__bio {
+  min-height: 3em;
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
