@@ -1,6 +1,49 @@
 (function () {
   'use strict';
 
+  // Adapted from al-folio's MIT-licensed highlight-search-term utility.
+  function getRangesForSearchTermInNode(node, search) {
+    var ranges = [];
+    var text = node.textContent ? node.textContent.toLocaleLowerCase() : '';
+    var start = 0;
+    var index;
+
+    while ((index = text.indexOf(search, start)) >= 0) {
+      var range = new Range();
+      range.setStart(node, index);
+      range.setEnd(node, index + search.length);
+      ranges.push(range);
+      start = index + search.length;
+    }
+
+    return ranges;
+  }
+
+  function highlightSearchTerm(search) {
+    if (!window.CSS || !CSS.highlights || typeof window.Highlight !== 'function') return;
+
+    CSS.highlights.delete('portfolio-search');
+    if (!search) return;
+
+    var ranges = [];
+    var items = document.querySelectorAll('[data-portfolio-item]');
+
+    Array.prototype.forEach.call(items, function (item) {
+      var walker = document.createTreeWalker(item, NodeFilter.SHOW_TEXT);
+      var node;
+
+      while ((node = walker.nextNode())) {
+        if (node.textContent && node.textContent.toLocaleLowerCase().indexOf(search) !== -1) {
+          ranges = ranges.concat(getRangesForSearchTermInNode(node, search));
+        }
+      }
+    });
+
+    if (ranges.length) {
+      CSS.highlights.set('portfolio-search', new Highlight(...ranges));
+    }
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     var root = document.querySelector('[data-portfolio-filter-root]');
     var filter = document.getElementById('research-portfolio-filter');
@@ -14,6 +57,8 @@
 
     function filterItems(query) {
       var visibleCount = 0;
+
+      highlightSearchTerm(query);
 
       years.forEach(function (year) {
         var items = Array.prototype.slice.call(year.querySelectorAll('[data-portfolio-item]'));
