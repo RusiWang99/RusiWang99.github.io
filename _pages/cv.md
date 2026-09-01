@@ -42,13 +42,13 @@ Visiting Research & Academic Programs
 
 Scholarships
 ======
-* Excellent Graduate Student Scholarship, Tongji University (¥5,000, Rank: 2/32), December 2023
+* Chuangmai Scholarship, Tongji University (¥5,000, Rank: 2/32), December 2023
 * Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000), December 2019
-* Scholarship Under the State Scholarship Fund (€5,250), June 2019
+* Scholarship Under the State Scholarship Fund (€5,250, Awarded by China Scholarship Council), June 2019
 * Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China (¥1,000), December 2018
 
 Honors & Awards
 ======
-* Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
+* Honorable Mention, 2019 Interdisciplinary Contest in Modeling, April 2019
 * Second Prize (Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
-* Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
+* First Prize, 2018 Sichuan Provincial Undergraduate Electronic Design Contest, August 2018
