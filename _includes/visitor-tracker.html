@@ -1,0 +1,32 @@
+<script>
+  (function () {
+    'use strict';
+
+    var storageKey = 'rusi-mapmyvisitors-optout';
+    var isExcluded = false;
+
+    try {
+      isExcluded = localStorage.getItem(storageKey) === 'true';
+    } catch (error) {
+      isExcluded = false;
+    }
+
+    if (isExcluded) return;
+
+    var tracker = new Image();
+    tracker.src = 'https://mapmyvisitors.com/map.png?d=QTEN9GgniIrqyq6WJR_matndl5zv4UVXqm1STZ8AJXc&cl=ffffff';
+    tracker.alt = '';
+    tracker.setAttribute('aria-hidden', 'true');
+    tracker.style.position = 'absolute';
+    tracker.style.width = '1px';
+    tracker.style.height = '1px';
+    tracker.style.overflow = 'hidden';
+    tracker.style.clip = 'rect(0 0 0 0)';
+    tracker.style.clipPath = 'inset(50%)';
+    tracker.style.whiteSpace = 'nowrap';
+    tracker.style.border = '0';
+    tracker.style.opacity = '0';
+    tracker.style.pointerEvents = 'none';
+    document.body.appendChild(tracker);
+  }());
+</script>
