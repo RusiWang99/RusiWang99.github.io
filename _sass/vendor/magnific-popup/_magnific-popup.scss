@@ -530,7 +530,9 @@ button {
   .mfp-gallery {
     .mfp-image-holder {
       .mfp-figure {
-        cursor: pointer;
+        cursor: -webkit-zoom-out;
+        cursor: -moz-zoom-out;
+        cursor: zoom-out;
       }
     }
   }

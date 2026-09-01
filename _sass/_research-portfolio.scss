@@ -26,6 +26,9 @@
   aspect-ratio: 16 / 9;
   border: 1px solid var(--rw-poster-border, #c8dce7);
   background: var(--rw-poster-background, #f3f8fa);
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+  cursor: zoom-in;
 }
 
 .featured-publication__badge {
