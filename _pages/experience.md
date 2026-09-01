@@ -120,8 +120,8 @@ author_profile: true
 * 2019.06, Scholarship Under the State Scholarship Fund (€5,250, Awarded by China Scholarship Council)
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Honors and Awards</h1>
-* 2019.04, Honorable Mention, 2019 Interdisciplinary Contest in Modeling
-* 2018.08, First Prize, 2018 Sichuan Provincial Undergraduate Electronic Design Contest
+* 2019.04, Honorable Mention, 2019 Interdisciplinary Contest in Modeling (with [Ran Mao](https://scholar.google.com/citations?user=cvcZWesAAAAJ&hl=en&oi=ao) and [Fangping Ning](https://au.linkedin.com/in/fangping-ning-9932a8377))
+* 2018.08, First Prize, 2018 Sichuan Provincial Undergraduate Electronic Design Contest (with [Zhuobin Huang](https://zobinhuang.github.io/sec_about/) and Zhe Xu)
 
 </div>
 
