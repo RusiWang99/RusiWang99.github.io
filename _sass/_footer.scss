@@ -39,11 +39,12 @@
   }
 
   a {
-    color: inherit;
+    color: var(--rw-footer-text, #c7cdd1);
     text-decoration: none;
 
     &:hover,
     &:focus-visible {
+      color: var(--rw-footer-text, #c7cdd1);
       text-decoration: underline;
     }
   }
