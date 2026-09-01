@@ -3,7 +3,9 @@
     'use strict';
 
     var storageKey = 'rusi-mapmyvisitors-optout';
+    var sessionKey = 'rusi-mapmyvisitors-session-counted';
     var isExcluded = false;
+    var isCounted = false;
 
     try {
       isExcluded = localStorage.getItem(storageKey) === 'true';
@@ -12,6 +14,17 @@
     }
 
     if (isExcluded) return;
+
+    try {
+      isCounted = sessionStorage.getItem(sessionKey) === 'true';
+      if (!isCounted) {
+        sessionStorage.setItem(sessionKey, 'true');
+      }
+    } catch (error) {
+      isCounted = false;
+    }
+
+    if (isCounted) return;
 
     var tracker = new Image();
     tracker.src = 'https://mapmyvisitors.com/map.png?d=QTEN9GgniIrqyq6WJR_matndl5zv4UVXqm1STZ8AJXc&cl=ffffff';
