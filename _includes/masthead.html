@@ -30,11 +30,18 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      <button class="masthead__theme-toggle" id="theme-toggle" type="button" aria-label="Theme: System. Activate to switch to light mode." title="Theme: System">
-        <i class="fas fa-circle-half-stroke" data-theme-icon="system" aria-hidden="true"></i>
-        <i class="fas fa-sun" data-theme-icon="light" aria-hidden="true" hidden></i>
-        <i class="fas fa-moon" data-theme-icon="dark" aria-hidden="true" hidden></i>
-      </button>
+      <div class="masthead__theme">
+        <button class="masthead__theme-toggle" id="theme-toggle" type="button" aria-haspopup="menu" aria-expanded="false" aria-controls="theme-menu" aria-label="Choose theme. Current theme: System." title="Theme: System">
+          <i class="fas fa-circle-half-stroke" data-theme-icon="system" aria-hidden="true"></i>
+          <i class="fas fa-sun" data-theme-icon="light" aria-hidden="true" hidden></i>
+          <i class="fas fa-moon" data-theme-icon="dark" aria-hidden="true" hidden></i>
+        </button>
+        <div class="masthead__theme-menu" id="theme-menu" role="menu" aria-label="Theme" hidden>
+          <button type="button" role="menuitemradio" data-theme-option="light" aria-checked="false">Light</button>
+          <button type="button" role="menuitemradio" data-theme-option="dark" aria-checked="false">Dark</button>
+          <button type="button" role="menuitemradio" data-theme-option="system" aria-checked="true">System</button>
+        </div>
+      </div>
     </div>
   </div>
 </div>
