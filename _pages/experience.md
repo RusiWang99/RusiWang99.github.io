@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div lang="en" style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
+<div class="cv-entry-page" lang="en" style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 15px;">Education</h1>
 
@@ -108,7 +108,7 @@ author_profile: true
 
 * 2019.02–2019.06, Exchange Student, Department of Electrical Engineering, National University of Kaohsiung, Kaohsiung, Taiwan, China
 
-* 2014.09–2017.06, Shanghai Yan'an High School, Shanghai, China
+* 2014.09–2017.06, High School Diploma, Shanghai Yan’an High School, Shanghai, China
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Research Projects</h1>
 
