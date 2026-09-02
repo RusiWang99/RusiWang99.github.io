@@ -93,7 +93,7 @@ author_profile: true
     </summary>
     <div style="margin-top: 5px; padding: 10px; background-color: var(--rw-surface-soft, #f9f9f9); border-left: 3px solid var(--rw-line, #ccc); font-size: 0.9em;">
       <p style="margin-top: 0; margin-bottom: 10px;">In December 2017, I was selected into the "<a href="https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A" target="_blank">Liren Honors Class of Project Pillars, School of Information and Communication Engineering</a>".</p>
-      <p style="margin-bottom: 0;">During my undergraduate studies, I took <em>Optimization Theory for Computer Networking</em>, taught by <a href="https://www.sice.uestc.edu.cn/info/1450/11646.htm" target="_blank" rel="noopener noreferrer">Prof. Xiaoning Zhang</a>. The course covered shortest paths, matching, and network flows. It helped me develop an interest in graph theory and later influenced my decision to work on transportation network equilibrium modeling and optimization in my Ph.D. research.</p>
+      <p style="margin-bottom: 0;">During my undergraduate studies, I took <em>Optimization Theory for Computer Networking</em>, taught by <a href="https://www.sice.uestc.edu.cn/info/1450/11646.htm" target="_blank" rel="noopener noreferrer">Prof. Xiaoning Zhang</a>. The course covered graph traversal algorithms and graph optimization problems such as shortest paths, matching, and network flows. It also introduced algorithm design techniques including divide-and-conquer, greedy methods, and dynamic programming. The course helped me develop an interest in graph theory and later influenced my decision to work on transportation network equilibrium modeling and optimization in my Ph.D. research.</p>
     </div>
   </details>
 
