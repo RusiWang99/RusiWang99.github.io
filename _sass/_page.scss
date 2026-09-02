@@ -533,3 +533,18 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* CV-style entries use their dates as visual anchors instead of bullets. */
+.cv-entry-page > ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.cv-entry-page > ul > li {
+  margin-bottom: 0.55em;
+}
+
+.cv-entry-page > ul > li:last-child {
+  margin-bottom: 0;
+}
