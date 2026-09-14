@@ -33,4 +33,4 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 Articles de conférence
 ------
-**Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Présenté à *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[HAL](https://hal.science/hal-05338780/)]
+**Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy in a multimodal multicommodity freight transportation market. Présenté à *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [[HAL](https://hal.science/hal-05338780/)]
