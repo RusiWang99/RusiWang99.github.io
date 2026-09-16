@@ -26,7 +26,7 @@ In the lists below, \* denotes the corresponding author; † marks my supervisor
 
 <h2 style="margin-top: 15px;">Journal Articles</h2>
 
-Chi Xie<sup>*†</sup>, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819){:target="_blank"}][[View details](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network)][[PDF](https://rusiwang99.github.io/files/JTRP_103819.pdf){:target="_blank"}] (SSCI, JIF (2025)=6.2, JCR Q1, <strong>CAS Tier 1 (Top)</strong>)
+Chi Xie<sup>&#42;†</sup>, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819){:target="_blank"}][[View details](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network)][[PDF](https://rusiwang99.github.io/files/JTRP_103819.pdf){:target="_blank"}] (SSCI, JIF (2025)=6.2, JCR Q1, <strong>CAS Tier 1 (Top)</strong>)
 
 <h2 style="margin-top: 30px;">Conference Papers</h2>
 
