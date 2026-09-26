@@ -42,6 +42,8 @@ Chi Xie<sup>&#42;†</sup>, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiq
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Work in Progress</h1>
 
+**Rusi Wang**, Chi Xie\*. Dynamic equilibrium in multimodal networks with carpooling, autonomous taxis, and public transit.
+
 **Rusi Wang**, Chi Xie\*. Second-best congestion pricing in dynamic traffic networks: A bilevel optimization model with a convex dynamic user equilibrium formulation.
 
 Collaborating authors including **Rusi Wang**. Resilient subsidy allocation for the China–Europe multimodal freight network under global disruption scenarios.
