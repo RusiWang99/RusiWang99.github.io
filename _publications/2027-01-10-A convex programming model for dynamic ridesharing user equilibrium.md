@@ -25,7 +25,7 @@ authors:
       - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
       - "School of Transportation, Tongji University, China"
 publication:
-  status: "Accepted for presentation at the"
+  status: "Presented at the"
   venue: "106th Annual Meeting of the Transportation Research Board"
   year: 2027
 ---
