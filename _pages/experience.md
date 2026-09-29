@@ -117,7 +117,10 @@ author_profile: true
 * 2027.01–2030.12, Participant: <span class="project-hover"><i>System Equilibrium, Incentive Mechanisms, and Infrastructure Deployment for Large-Scale Vehicle–Grid Interaction</i><span class="tooltip-text">大规模车网互动的系统均衡、激励机制和设施配置</span></span>. Supported by the General Program of the National Natural Science Foundation of China. Principal Investigator: Prof. Chi Xie.
 {% endcomment %}
 
-<h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Scholarships</h1>
+<h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Academic Service</h1>
+* **Journal Reviewer:** *Socio-Economic Planning Sciences* (2026)
+
+<h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-top: 30px;">Scholarships</h1>
 * 2023.12, Chuangmai Scholarship, Tongji University (¥5,000, Rank: 2/32)
 * 2019.12, Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000)
 * 2019.06, Scholarship Under the State Scholarship Fund (€5,250, Awarded by China Scholarship Council)
