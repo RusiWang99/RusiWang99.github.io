@@ -104,7 +104,7 @@ Since August 2024, I have been conducting my Ph.D. research under the supervisio
 <h1 class="home-section-title">News</h1>
 
 {% assign sorted_news = site.news | sort: "date" | reverse %}
-{% for news in sorted_news limit:3 %}
+{% for news in sorted_news limit:5 %}
   {{ news.content }}
 {% endfor %}
 
