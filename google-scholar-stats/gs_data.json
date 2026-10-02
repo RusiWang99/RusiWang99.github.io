@@ -20,8 +20,24 @@
   ],
   "email_domain": "@tongji.edu.cn",
   "homepage": "https://rusiwang99.github.io/",
-  "citedby": 4,
+  "citedby": 5,
   "publications": {
+    "bBc5rVMAAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network",
+        "pub_year": "2025",
+        "citation": "Transport Policy 174, 103819, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "bBc5rVMAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16463407806533984894",
+      "cites_id": [
+        "16463407806533984894"
+      ]
+    },
     "bBc5rVMAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
@@ -36,22 +52,6 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7755217923696085500",
       "cites_id": [
         "7755217923696085500"
-      ]
-    },
-    "bBc5rVMAAAAJ:d1gkVwhDpl0C": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network",
-        "pub_year": "2025",
-        "citation": "Transport Policy 174, 103819, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "bBc5rVMAAAAJ:d1gkVwhDpl0C",
-      "num_citations": 1,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16463407806533984894",
-      "cites_id": [
-        "16463407806533984894"
       ]
     },
     "bBc5rVMAAAAJ:u5HHmVD_uO8C": {
@@ -70,11 +70,23 @@
         "3964643081366237053"
       ]
     },
+    "bBc5rVMAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A convex programming model for dynamic ridesharing user equilibrium",
+        "pub_year": "2027",
+        "citation": "106th Annual Meeting of the Transportation Research Board, 2027"
+      },
+      "filled": false,
+      "author_pub_id": "bBc5rVMAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
     "bBc5rVMAAAAJ:qjMakFHDy7sC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market",
+        "title": "Mitigating revenue loss and congestion surcharge by rail freight subsidy in a multimodal multicommodity freight transportation market",
         "pub_year": "2026",
         "citation": "105th Annual Meeting of the Transportation Research Board, 2026"
       },
@@ -83,15 +95,15 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 4,
-  "hindex": 1,
-  "hindex5y": 1,
+  "citedby5y": 5,
+  "hindex": 2,
+  "hindex5y": 2,
   "i10index": 0,
   "i10index5y": 0,
   "cites_per_year": {
     "2024": 2,
     "2025": 1,
-    "2026": 1
+    "2026": 2
   },
-  "updated": "2026-08-25 08:39:15.049971"
+  "updated": "2026-10-02T16:44:00+00:00"
 }
