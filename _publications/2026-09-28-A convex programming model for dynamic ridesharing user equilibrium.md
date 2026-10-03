@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2026-09-28-A convex programming model for dynamic ridesharing user equilibrium
 redirect_from:
   - /publication/2027-01-10-A convex programming model for dynamic ridesharing user equilibrium
-excerpt: 'Presented at the 106th Annual Meeting of the Transportation Research Board in January 2027.'
+excerpt: 'Accepted for presentation at the 106th Annual Meeting of the Transportation Research Board in January 2027.'
 date: 2026-09-28
 venue: '106th Annual Meeting of the Transportation Research Board'
-citation: 'Wang, R., & Xie, C. (2027, January 10–14). A convex programming model for dynamic ridesharing user equilibrium [Paper presentation]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
+citation: 'Wang, R., & Xie, C. (2027, January 10–14). A convex programming model for dynamic ridesharing user equilibrium [Paper accepted for presentation]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., U.S.'
 authors:
   - name: "Rusi Wang"
     email: "rusiwang@tongji.edu.cn"
@@ -27,7 +27,7 @@ authors:
       - "Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, China"
       - "School of Transportation, Tongji University, China"
 publication:
-  status: "Presented at the"
+  status: "Accepted for presentation at the"
   venue: "106th Annual Meeting of the Transportation Research Board"
   year: 2027
 ---
