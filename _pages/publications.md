@@ -30,7 +30,7 @@ Chi Xie<sup>&#42;†</sup>, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiq
 
 <h2 style="margin-top: 30px;">Conference Papers</h2>
 
-**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic ridesharing user equilibrium. Presented at *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10–14 January 2027. Paper No. TRBAM-27-06071. [[View details](https://rusiwang99.github.io/publication/2026-09-28-A%20convex%20programming%20model%20for%20dynamic%20ridesharing%20user%20equilibrium)]
+**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic ridesharing user equilibrium. Accepted for presentation at the *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 10–14 January 2027. Paper No. TRBAM-27-06071. [[View details](https://rusiwang99.github.io/publication/2026-09-28-A%20convex%20programming%20model%20for%20dynamic%20ridesharing%20user%20equilibrium)]
 
 **Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 11–15 January 2026. Poster Session 3037, Paper No. TRBAM-26-04956. [[TRB Program](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/24895){:target="_blank"}][[View details](https://rusiwang99.github.io/publication/2025-10-29-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market)][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf){:target="_blank"}]
 
