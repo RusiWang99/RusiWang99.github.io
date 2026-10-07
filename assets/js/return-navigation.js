@@ -16,6 +16,40 @@
   });
 
   function init() {
+    var pageKey = window.location.pathname + window.location.search;
+    var fromNavigation = window.history.state &&
+      window.history.state.rwReturnToAbout === pageKey;
+    try {
+      var pending = JSON.parse(window.sessionStorage.getItem("rw-nav-entry") || "null");
+      window.sessionStorage.removeItem("rw-nav-entry");
+      if (pending && pending.target === pageKey && Date.now() - pending.at < 60000) {
+        fromNavigation = true;
+        var state = Object.assign({}, window.history.state || {});
+        state.rwReturnToAbout = pageKey;
+        window.history.replaceState(state, "");
+      }
+    } catch (error) {
+      // Storage restrictions leave ordinary return navigation available.
+    }
+
+    document.addEventListener("click", function (event) {
+      var link = event.target.closest && event.target.closest("#site-nav a");
+      if (!link || event.defaultPrevented || event.button !== 0 ||
+          event.metaKey || event.ctrlKey || event.shiftKey || event.altKey ||
+          link.target === "_blank") return;
+      var target = new URL(link.href, window.location.href);
+      if (target.origin !== window.location.origin ||
+          target.pathname + target.search === pageKey) return;
+      try {
+        window.sessionStorage.setItem("rw-nav-entry", JSON.stringify({
+          target: target.pathname + target.search,
+          at: Date.now()
+        }));
+      } catch (error) {
+        // The normal link still works when session storage is unavailable.
+      }
+    });
+
     var source;
     try {
       source = new URL(document.referrer);
@@ -32,6 +66,11 @@
       if (!/^(?:←\s*)?Back(?:\s+to\s+.+)?$/.test(label) && label !== "返回") return;
 
       link.textContent = label === "返回" ? "返回" : "Back";
+      if (fromNavigation) {
+        link.href = new URL("/", window.location.href).href;
+        link.setAttribute("aria-label", label === "返回" ? "返回 About 主页" : "Back to About");
+        return;
+      }
       if (!source) return;
       link.href = source.href;
       link.setAttribute("aria-label", label === "返回" ? "返回上一页" : "Back to previous page");
