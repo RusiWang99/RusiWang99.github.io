@@ -2,6 +2,19 @@
 (function () {
   "use strict";
 
+  // History restores keep the document alive, so replay its existing intro fade.
+  window.addEventListener("pageshow", function (event) {
+    if (!event.persisted || !document.getAnimations ||
+        window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    document.getAnimations().forEach(function (animation) {
+      if (animation.animationName === "intro") {
+        animation.currentTime = 0;
+        animation.play();
+      }
+    });
+  });
+
   function init() {
     var source;
     try {
