@@ -67,7 +67,11 @@ author_more_label: "更多"
 
 <div class="cv-entry-page" style="text-align: justify; text-justify: inter-character;" markdown="1">
 
-我是王铷锶，目前是同济大学[城市交通研究院](https://umi.tongji.edu.cn/){:target="_blank"}城市交通专业的2024级博士研究生。我从2024年8月开始接受[谢驰教授](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works){:target="_blank"}的指导，研究兴趣为网络优化理论与方法。我已完成一项博士预研究，解决了集装箱货运网络中的补贴再分配问题。我的博士学位论文研究聚焦面向动态均衡交通网络的出行需求管理优化问题，其中主要的创新性贡献在于提出一种在大时空跨度范围内具有计算可行性、可容纳多模式交通（包括单独驾驶、网约车、共乘、巴士、地铁等，以及“驻车换乘”等组合模式）的解析类动态交通分配模型，并提出、分析与解决一类以该均衡模型为子模型的、具有特殊优化结构的出行需求管理（包括拥堵收费、可交易电子路票、“预约与配给”等）策略优化问题。
+我是王铷锶，同济大学[城市交通研究院](https://umi.tongji.edu.cn/){:target="_blank" rel="noopener noreferrer"}城市交通专业2024级博士研究生。
+
+我从小就是地图迷。本科就读于电子科技大学期间，《通信网理论基础》这门课程激发了我对网络流的学术兴趣。这份兴趣逐渐延伸至交通网络的建模与优化，也成为我如今的研究方向。
+
+自2024年8月起，我在[谢驰教授](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works){:target="_blank" rel="noopener noreferrer"}的指导下开展博士研究，研究兴趣为交通网络优化理论与方法。我的博士学位论文聚焦面向动态均衡交通网络的出行需求管理优化问题，主要工作是构建在大时空跨度下具有计算可行性的解析类动态交通分配模型，容纳单独驾驶、网约车、共乘、巴士、地铁及“驻车换乘”等多种出行模式。在此基础上，我进一步研究以该均衡模型为子模型、具有特殊优化结构的出行需求管理策略优化问题，包括拥堵收费、可交易电子路票及“预约与配给”等。我已开发并持续完善 **FlowEqua** 软件，将交通网络均衡模型的计算、分析与交互式可视化融为一体，让模型结果能够在具体的交通网络中得到直观呈现与深入探索。
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">教育背景</h1>
 
