@@ -20,7 +20,7 @@
   ],
   "email_domain": "@tongji.edu.cn",
   "homepage": "https://rusiwang99.github.io/",
-  "citedby": 5,
+  "citedby": 6,
   "publications": {
     "bBc5rVMAAAAJ:d1gkVwhDpl0C": {
       "container_type": "Publication",
@@ -32,7 +32,7 @@
       },
       "filled": false,
       "author_pub_id": "bBc5rVMAAAAJ:d1gkVwhDpl0C",
-      "num_citations": 2,
+      "num_citations": 3,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16463407806533984894",
       "cites_id": [
         "16463407806533984894"
@@ -95,7 +95,7 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 5,
+  "citedby5y": 6,
   "hindex": 2,
   "hindex5y": 2,
   "i10index": 0,
@@ -103,7 +103,7 @@
   "cites_per_year": {
     "2024": 2,
     "2025": 1,
-    "2026": 2
+    "2026": 3
   },
-  "updated": "2026-10-02T16:44:00+00:00"
+  "updated": "2026-10-13T00:49:12+00:00"
 }
