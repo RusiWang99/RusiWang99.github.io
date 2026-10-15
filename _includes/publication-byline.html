@@ -2,7 +2,7 @@
   <div class="publication-authors" aria-label="Authors">
     {% for author in page.authors %}
       <span class="publication-author">
-        <span class="publication-author-name" tabindex="0">
+        <span class="publication-author-name">
           {{ author.name }}{% if author.corresponding %}*{% endif %}
           {% if author.affiliations %}
             <span class="publication-author-tooltip{% if author.tooltip_horizontal %} publication-author-tooltip--opens-{{ author.tooltip_horizontal }}{% endif %}{% if author.tooltip_vertical == 'below' %} publication-author-tooltip--below{% endif %}" role="tooltip">
