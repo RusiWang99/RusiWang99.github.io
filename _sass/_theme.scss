@@ -69,12 +69,27 @@ a {
   color: var(--rw-link);
   text-decoration: none;
 
+  // Returning to a page can leave the previously clicked link focused.
+  &:focus {
+    outline: none;
+  }
+
+  &:focus-visible:not(:hover) {
+    text-decoration: none;
+  }
+
   &:hover,
   &:active,
   &:focus-visible {
     color: var(--rw-link-hover);
     text-decoration: underline;
   }
+}
+
+// Keep the publication poster flat while hovering or after closing its viewer.
+.featured-publication__visual a:hover .featured-publication__poster,
+.featured-publication__visual a:focus-visible .featured-publication__poster {
+  box-shadow: none;
 }
 
 .masthead a,
