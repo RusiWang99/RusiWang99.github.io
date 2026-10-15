@@ -144,8 +144,10 @@ author_profile: true
   }
   .education-card__details > summary {
     display: block;
-    padding: 9px 16px;
+    padding: 3px 14px;
     color: var(--rw-link, #3a83aa);
+    font-size: 0.82em;
+    line-height: 1.2;
   }
   .education-card__details > summary::before {
     content: "▸";
@@ -209,7 +211,7 @@ author_profile: true
     <div class="education-card__place">Chengdu, China</div>
   </div>
   <details class="education-card__details">
-    <summary>More about this experience</summary>
+    <summary>More About the Experience</summary>
     <div class="education-card__expanded">
       <p>In December 2017, I was selected into the "<a href="https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A" target="_blank">Liren Honors Class of Project Pillars, School of Information and Communication Engineering</a>".</p>
       <p>During my undergraduate studies, I took <em>Optimization Theory for Computer Networking</em>, taught by <a href="https://www.sice.uestc.edu.cn/info/1450/11646.htm" target="_blank" rel="noopener noreferrer">Prof. Xiaoning Zhang</a>. The course covered graph traversal algorithms and graph optimization problems such as shortest paths, matching, and network flows. It also introduced algorithm design techniques including divide-and-conquer, greedy methods, and dynamic programming. The course helped me develop an interest in graph theory and later influenced my decision to work on transportation network equilibrium modeling and optimization in my Ph.D. research.</p>
@@ -225,7 +227,7 @@ author_profile: true
     <div class="education-card__place">Paris, France</div>
   </div>
   <details class="education-card__details">
-    <summary>More about this experience</summary>
+    <summary>More About the Experience</summary>
     <div class="education-card__expanded">
       <p>Conducted research at <a href="https://www.isep.fr/en/research-at-isep/" target="_blank">Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications</a> under the supervision of <a href="https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en" target="_blank">Dr. Ercüment Yılmaz</a> (post-doctoral fellow) and <a href="https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra" target="_blank">Prof. Maria Trocan</a>, focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.</p>
       <p>Intensive French language training (CEFR B1.1) at the <a href="https://ilcf.icp.fr/en" target="_blank">Institute of French Languages ​​and Culture (ILCF)</a>. Achieved a top grade A, ranking first in a class of 14 students of homogeneous level.</p>
