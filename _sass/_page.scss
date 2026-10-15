@@ -123,8 +123,7 @@
   border-color: transparent transparent #333 transparent;
 }
 
-.publication-author-name:hover .publication-author-tooltip,
-.publication-author-name:focus .publication-author-tooltip {
+.publication-author-name:hover .publication-author-tooltip {
   visibility: visible;
   opacity: 1;
 }
