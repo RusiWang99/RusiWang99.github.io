@@ -13,6 +13,9 @@ author_profile: true
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 15px;">Education</h1>
 
+* 2024.09–present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China
+* 2021.09–2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
+
 <style>
   details > summary {
     list-style: none;
@@ -84,175 +87,29 @@ author_profile: true
   }
 </style>
 
-
-<style>
-  .education-cards {
-    display: grid;
-    gap: 14px;
-    margin: 0 0 1em;
-  }
-  .education-card {
-    display: grid;
-    grid-template-columns: 94px minmax(0, 1fr);
-    border: 1px solid var(--rw-line, #e1e4e8);
-    border-radius: 6px;
-    background: var(--rw-surface, #fff);
-    overflow: hidden;
-  }
-  .education-card__visual {
-    display: grid;
-    place-items: center;
-    width: 94px;
-    height: 94px;
-  }
-  .education-card__visual img {
-    width: 94px;
-    height: 94px;
-    object-fit: contain;
-    box-shadow: none;
-  }
-  .education-card__main {
-    min-width: 0;
-    padding: 3px 14px;
-    line-height: 1.2;
-    text-align: left;
-  }
-  .education-card__date {
-    display: block;
-    margin-bottom: 3px;
-    color: var(--rw-muted, #727b81);
-    font-size: 0.82em;
-  }
-  .education-card__school {
-    margin: 0 0 3px;
-    font-size: 1.03em;
-    font-weight: 700;
-    line-height: 1.35;
-  }
-  .education-card__degree {
-    margin: 0;
-    line-height: 1.2;
-  }
-  .education-card__place {
-    margin-top: 3px;
-    color: var(--rw-muted, #727b81);
-  }
-  details.education-card__details {
-    grid-column: 1 / -1;
-    margin: 0;
-    border-top: 1px solid var(--rw-line, #e1e4e8);
-  }
-  .education-card__details > summary {
-    display: block;
-    padding: 3px 14px;
-    color: var(--rw-link, #3a83aa);
-    font-size: 0.82em;
-    line-height: 1.2;
-  }
-  .education-card__details > summary::before {
-    content: "▸";
-    display: inline-block;
-    margin-right: 0.45em;
-    transition: transform 0.2s ease;
-  }
-  .education-card__details[open] > summary::before {
-    transform: rotate(90deg);
-  }
-  .education-card__expanded {
-    margin: 0 16px 14px;
-    padding: 10px 12px;
-    border-left: 3px solid var(--rw-line, #e1e4e8);
-    background: var(--rw-surface-soft, #f5f7f8);
-    font-size: 0.9em;
-  }
-  .education-card__expanded p {
-    margin: 0 0 10px;
-  }
-  .education-card__expanded p:last-child {
-    margin-bottom: 0;
-  }
-  @media (max-width: 520px) {
-    .education-card { grid-template-columns: 70px minmax(0, 1fr); }
-    .education-card__visual { width: 70px; height: 70px; }
-    .education-card__visual img { width: 70px; height: 70px; }
-    .education-card__main { padding: 4px 10px; }
-    .education-card__expanded { margin: 0 12px 12px; }
-  }
-  @media (prefers-reduced-motion: reduce) {
-    .education-card__details > summary::before { transition: none; }
-  }
-</style>
-
-<div class="education-cards">
-<article class="education-card">
-  <div class="education-card__visual"><img src="/images/education/tongji.svg" alt="Tongji University emblem" width="94" height="94" loading="lazy"></div>
-  <div class="education-card__main">
-    <span class="education-card__date">2024.09–present</span>
-    <div class="education-card__school">Tongji University</div>
-    <p class="education-card__degree">Ph.D. Candidate in Urban Mobility, College of Transportation</p>
-    <div class="education-card__place">Shanghai, China</div>
-  </div>
-</article>
-<article class="education-card">
-  <div class="education-card__visual"><img src="/images/education/tongji.svg" alt="Tongji University emblem" width="94" height="94" loading="lazy"></div>
-  <div class="education-card__main">
-    <span class="education-card__date">2021.09–2024.05</span>
-    <div class="education-card__school">Tongji University</div>
-    <p class="education-card__degree">M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit</p>
-    <div class="education-card__place">Shanghai, China</div>
-  </div>
-</article>
-<article class="education-card">
-  <div class="education-card__visual"><img src="/images/education/uestc.svg" alt="University of Electronic Science and Technology of China emblem" width="94" height="94" loading="lazy"></div>
-  <div class="education-card__main">
-    <span class="education-card__date">2017.09–2021.07</span>
-    <div class="education-card__school">University of Electronic Science and Technology of China</div>
-    <p class="education-card__degree">B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering</p>
-    <div class="education-card__place">Chengdu, China</div>
-  </div>
-  <details class="education-card__details">
-    <summary>More about the experience</summary>
-    <div class="education-card__expanded">
-      <p>In December 2017, I was selected into the "<a href="https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A" target="_blank">Liren Honors Class of Project Pillars, School of Information and Communication Engineering</a>".</p>
-      <p>During my undergraduate studies, I took <em>Optimization Theory for Computer Networking</em>, taught by <a href="https://www.sice.uestc.edu.cn/info/1450/11646.htm" target="_blank" rel="noopener noreferrer">Prof. Xiaoning Zhang</a>. The course covered graph traversal algorithms and graph optimization problems such as shortest paths, matching, and network flows. It also introduced algorithm design techniques including divide-and-conquer, greedy methods, and dynamic programming. The course helped me develop an interest in graph theory and later influenced my decision to work on transportation network equilibrium modeling and optimization in my Ph.D. research.</p>
+* <details>
+    <summary>
+      2017.09–2021.07<span class="expand-icon"></span>, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China
+    </summary>
+    <div style="margin-top: 5px; padding: 10px; background-color: var(--rw-surface-soft, #f9f9f9); border-left: 3px solid var(--rw-line, #ccc); font-size: 0.9em;">
+      <p style="margin-top: 0; margin-bottom: 10px;">In December 2017, I was selected into the "<a href="https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A" target="_blank">Liren Honors Class of Project Pillars, School of Information and Communication Engineering</a>".</p>
+      <p style="margin-bottom: 0;">During my undergraduate studies, I took <em>Optimization Theory for Computer Networking</em>, taught by <a href="https://www.sice.uestc.edu.cn/info/1450/11646.htm" target="_blank" rel="noopener noreferrer">Prof. Xiaoning Zhang</a>. The course covered graph traversal algorithms and graph optimization problems such as shortest paths, matching, and network flows. It also introduced algorithm design techniques including divide-and-conquer, greedy methods, and dynamic programming. The course helped me develop an interest in graph theory and later influenced my decision to work on transportation network equilibrium modeling and optimization in my Ph.D. research.</p>
     </div>
   </details>
-</article>
-<article class="education-card">
-  <div class="education-card__visual"><img src="/images/education/isep.svg" alt="Institut Supérieur d'Électronique de Paris emblem" width="94" height="94" loading="lazy"></div>
-  <div class="education-card__main">
-    <span class="education-card__date">2019.09–2020.02</span>
-    <div class="education-card__school">Institut Supérieur d'Électronique de Paris</div>
-    <p class="education-card__degree">Visiting Undergraduate Student Awarded by China Scholarship Council (CSC)</p>
-    <div class="education-card__place">Paris, France</div>
-  </div>
-  <details class="education-card__details">
-    <summary>More about the experience</summary>
-    <div class="education-card__expanded">
-      <p>Conducted research at <a href="https://www.isep.fr/en/research-at-isep/" target="_blank">Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications</a> under the supervision of <a href="https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en" target="_blank">Dr. Ercüment Yılmaz</a> (post-doctoral fellow) and <a href="https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra" target="_blank">Prof. Maria Trocan</a>, focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.</p>
-      <p>Intensive French language training (CEFR B1.1) at the <a href="https://ilcf.icp.fr/en" target="_blank">Institute of French Languages ​​and Culture (ILCF)</a>. Achieved a top grade A, ranking first in a class of 14 students of homogeneous level.</p>
+
+* <details>
+    <summary>
+      2019.09–2020.02<span class="expand-icon"></span>, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
+    </summary>
+    <div style="margin-top: 5px; padding: 10px; background-color: var(--rw-surface-soft, #f9f9f9); border-left: 3px solid var(--rw-line, #ccc); font-size: 0.9em;">
+      <p style="margin-top: 0; margin-bottom: 10px;">Conducted research at <a href="https://www.isep.fr/en/research-at-isep/" target="_blank">Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications</a> under the supervision of <a href="https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en" target="_blank">Dr. Ercüment Yılmaz</a> (post-doctoral fellow) and <a href="https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra" target="_blank">Prof. Maria Trocan</a>, focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.</p>
+      <p style="margin-bottom: 0;">Intensive French language training (CEFR B1.1) at the <a href="https://ilcf.icp.fr/en" target="_blank">Institute of French Languages ​​and Culture (ILCF)</a>. Achieved a top grade A, ranking first in a class of 14 students of homogeneous level.</p>
     </div>
   </details>
-</article>
-<article class="education-card">
-  <div class="education-card__visual"><img src="/images/education/nuk.svg" alt="National University of Kaohsiung emblem" width="94" height="94" loading="lazy"></div>
-  <div class="education-card__main">
-    <span class="education-card__date">2019.02–2019.06</span>
-    <div class="education-card__school">National University of Kaohsiung</div>
-    <p class="education-card__degree">Exchange Student, Department of Electrical Engineering</p>
-    <div class="education-card__place">Kaohsiung, Taiwan, China</div>
-  </div>
-</article>
-<article class="education-card">
-  <div class="education-card__visual"><img src="/images/education/yanan.svg" alt="Shanghai Yan’an High School emblem" width="94" height="94" loading="lazy"></div>
-  <div class="education-card__main">
-    <span class="education-card__date">2014.09–2017.06</span>
-    <div class="education-card__school">Shanghai Yan’an High School</div>
-    <p class="education-card__degree">High School Diploma</p>
-    <div class="education-card__place">Shanghai, China</div>
-  </div>
-</article>
-</div>
+
+* 2019.02–2019.06, Exchange Student, Department of Electrical Engineering, National University of Kaohsiung, Kaohsiung, Taiwan, China
+
+* 2014.09–2017.06, High School Diploma, Shanghai Yan’an High School, Shanghai, China
 
 {% comment %}
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Research Projects</h1>
