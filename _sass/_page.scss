@@ -97,6 +97,21 @@
   display: block;
 }
 
+// Bridge the gap between the author name and the tooltip while hovering.
+.publication-author-tooltip::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  right: 0;
+  left: 0;
+  height: 1.5em;
+}
+
+.publication-author-tooltip--below::before {
+  top: auto;
+  bottom: 100%;
+}
+
 .publication-author-tooltip::after {
   content: "";
   position: absolute;
