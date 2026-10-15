@@ -113,7 +113,8 @@ author_profile: true
   }
   .education-card__main {
     min-width: 0;
-    padding: 4px 14px;
+    padding: 3px 14px;
+    line-height: 1.2;
     text-align: left;
   }
   .education-card__date {
@@ -130,6 +131,7 @@ author_profile: true
   }
   .education-card__degree {
     margin: 0;
+    line-height: 1.2;
   }
   .education-card__place {
     margin-top: 3px;
