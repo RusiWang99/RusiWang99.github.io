@@ -44,6 +44,23 @@ author_more_label: "更多"
     font-weight: normal;
     line-height: normal;
   }
+  /* Keep the tooltip open while the pointer crosses the gap above a name. */
+  .name-hover:hover::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 100%;
+    left: 0;
+    height: 1.5em;
+  }
+  .name-hover .tooltip-text::before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    height: 1.5em;
+  }
   .name-hover .tooltip-text::after {
     content: "";
     position: absolute;
