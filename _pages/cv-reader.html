@@ -80,7 +80,11 @@ permalink: /cv-reader/
     }
     function goToPage(number) {
       const page = pages.children[Math.min(Math.max(number, 1), pdf.numPages) - 1];
-      if (page) { page.scrollIntoView({ block: 'start' }); selectPage(Number(page.dataset.page)); }
+      if (page) {
+        const top = scroller.scrollTop + page.getBoundingClientRect().top - scroller.getBoundingClientRect().top;
+        scroller.scrollTo({ top });
+        selectPage(Number(page.dataset.page));
+      }
     }
     async function render() {
       const ticket = ++rendering;
