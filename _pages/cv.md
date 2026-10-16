@@ -90,6 +90,6 @@ author_profile: false
     </div>
   </div>
   <div class="cv-page__preview">
-    <iframe src="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}" title="Rusi Wang CV PDF"></iframe>
+    <iframe src="{{ '/cv-reader/' | relative_url }}" title="Rusi Wang CV PDF"></iframe>
   </div>
 </div>
