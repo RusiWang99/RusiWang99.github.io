@@ -4,7 +4,7 @@ title: "CV"
 browser_title: "CV - Rusi Wang’s Homepage"
 hide_title: true
 permalink: /cv/
-author_profile: false
+author_profile: true
 ---
 
 <style>
@@ -85,11 +85,13 @@ author_profile: false
     <p>Transportation network equilibrium modeling and optimization.</p>
     <p class="cv-page__updated">Last updated: 16 October 2026</p>
     <div class="cv-page__actions">
-      <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}" download>Download PDF</a>
+      <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}?v=20261016cv2" download="Rusi_Wang_CV.pdf">Download PDF</a>
       <a href="{{ '/cv-print/' | relative_url }}" target="_blank" rel="noopener noreferrer">Printable source</a>
     </div>
   </div>
   <div class="cv-page__preview">
-    <iframe src="{{ '/cv-reader/' | relative_url }}?v=20261016c" title="Rusi Wang CV PDF"></iframe>
+    <iframe src="{{ '/cv-reader/' | relative_url }}?v=20261016d" title="Rusi Wang CV PDF"></iframe>
   </div>
 </div>
+
+[Back](/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
