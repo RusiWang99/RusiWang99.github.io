@@ -25,7 +25,10 @@ permalink: /cv-reader/
     .toolbar .title { min-width: 0; flex: 1; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 4px; }
     .toolbar .separator { width: 1px; height: 20px; margin: 0 4px; background: #707174; }
     #pageNumber { width: 35px; height: 25px; text-align: center; color: white; background: #242629; border: 1px solid #555; }
-    #zoomLabel { min-width: 43px; text-align: center; font-size: 12px; }
+    .zoom-control { display: inline-flex; align-items: center; justify-content: center; min-width: 50px; height: 25px; white-space: nowrap; }
+    #zoomInput { width: 31px; padding: 0; color: white; background: transparent; border: 0; text-align: right; font-size: 12px; appearance: textfield; -moz-appearance: textfield; }
+    #zoomInput::-webkit-inner-spin-button, #zoomInput::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+    .zoom-control span { font-size: 12px; }
     .workspace { height: calc(100% - 48px); display: flex; }
     .thumbnails { width: 155px; flex: none; overflow-y: auto; background: #292b2e; padding: 16px 0; text-align: center; }
     .thumbnails[hidden] { display: none; }
@@ -58,11 +61,11 @@ permalink: /cv-reader/
     <input id="pageNumber" type="number" min="1" value="1" aria-label="Page number"><span id="pageCount">/ 2</span>
     <span class="separator"></span>
     <button id="zoomOut" type="button" title="Zoom out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14"/></svg></button>
-    <span id="zoomLabel">Fit</span>
+    <label class="zoom-control" title="Zoom percentage (50–300%)"><input id="zoomInput" type="number" min="50" max="300" step="1" inputmode="numeric" aria-label="Zoom percentage" value="100"><span>%</span></label>
     <button id="zoomIn" type="button" title="Zoom in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M12 5v14"/></svg></button>
     <button id="fitWidth" type="button" title="Fit width" aria-label="Fit width"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="5" y="5" width="14" height="14"/><circle cx="12" cy="12" r="1.2" fill="currentColor" stroke="none"/></svg></button>
     <span class="separator"></span>
-    <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}?v=20261016cv9" download="Rusi_Wang_CV.pdf" title="Download PDF" aria-label="Download PDF"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4M4 17v3h16v-3"/></svg></a>
+    <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}?v=20261016cv9" download="Rusi_Wang_CV.pdf" title="Download PDF" aria-label="Download PDF"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M8 11l4 4 4-4M4 17v3h16v-3"/></svg></a>
     <button id="print" type="button" title="Print CV" aria-label="Print CV"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9V3h12v6M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 15h12v6H6z"/><circle cx="18" cy="12" r=".7" fill="currentColor" stroke="none"/></svg></button>
   </div>
   <div class="workspace">
@@ -78,7 +81,8 @@ permalink: /cv-reader/
     const pages = document.getElementById('pages');
     const thumbs = document.getElementById('thumbnails');
     const pageInput = document.getElementById('pageNumber');
-    const zoomLabel = document.getElementById('zoomLabel');
+    const zoomInput = document.getElementById('zoomInput');
+    const zoomSteps = [50, 75, 90, 95, 100, 105, 110, 125, 150, 200, 250, 300];
     let pdf, baseWidth, zoom = 1, fit = true, rendering = 0;
 
     function selectPage(number) {
@@ -101,9 +105,9 @@ permalink: /cv-reader/
       if (fit) {
         const style = getComputedStyle(scroller);
         const padding = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight);
-        zoom = Math.min(1.7, (scroller.clientWidth - padding) / baseWidth);
+        zoom = Math.min(3, Math.max(0.5, (scroller.clientWidth - padding) / baseWidth));
       }
-      zoomLabel.textContent = `${Math.round(zoom * 100)}%`;
+      zoomInput.value = Math.round(zoom * 100);
       pages.className = '';
       pages.replaceChildren();
       thumbs.replaceChildren();
@@ -152,8 +156,22 @@ permalink: /cv-reader/
       }
       goToPage(current);
     }
-    document.getElementById('zoomOut').addEventListener('click', () => { fit = false; zoom = Math.max(0.45, zoom / 1.2); render(); });
-    document.getElementById('zoomIn').addEventListener('click', () => { fit = false; zoom = Math.min(3, zoom * 1.2); render(); });
+    function setZoom(percent) {
+      if (!Number.isFinite(percent)) { zoomInput.value = Math.round(zoom * 100); return; }
+      fit = false;
+      zoom = Math.min(300, Math.max(50, Math.round(percent))) / 100;
+      render();
+    }
+    document.getElementById('zoomOut').addEventListener('click', () => {
+      const current = Math.round(zoom * 100);
+      setZoom(zoomSteps.findLast(step => step < current) ?? zoomSteps[0]);
+    });
+    document.getElementById('zoomIn').addEventListener('click', () => {
+      const current = Math.round(zoom * 100);
+      setZoom(zoomSteps.find(step => step > current) ?? zoomSteps.at(-1));
+    });
+    zoomInput.addEventListener('change', () => setZoom(zoomInput.valueAsNumber));
+    zoomInput.addEventListener('keydown', event => { if (event.key === 'Enter') zoomInput.blur(); });
     document.getElementById('fitWidth').addEventListener('click', () => { fit = true; render(); });
     document.getElementById('sidebarToggle').addEventListener('click', () => { thumbs.hidden = !thumbs.hidden; if (fit) render(); });
     document.getElementById('print').addEventListener('click', () => window.print());
