@@ -1,8 +1,5 @@
 # main links links
 main:
-#  - title: "CV"
-#    url: /cv/
-
   - title: "About"
     url: /
 
@@ -30,8 +27,8 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "中文"
-    url: /chinese/
+  - title: "CV"
+    url: /cv/
 
 #  - title: "Français"
 #    url: /francais/

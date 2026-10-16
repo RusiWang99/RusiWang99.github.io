@@ -1,54 +1,95 @@
 ---
 layout: archive
 title: "CV"
+browser_title: "CV - Rusi Wang’s Homepage"
+hide_title: true
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: false
 ---
 
-{% include base_path %}
+<style>
+  .cv-page {
+    max-width: 950px;
+    margin: 0 auto 2rem;
+  }
 
-Education
-======
-* 2024.09–present, Tongji University <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>, Ph.D Student in Urban Mobility, College of Transportation (Supervisor: Prof. Chi Xie)
-* 2021.09–2024.05, Tongji University <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>, M.Eng. in Vehicle Operation Engineering, Institute of Rail Transit
-* 2017.09–2021.07, University of Electronic Science and Technology of China <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering
-> In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)" (Top 2% of the School).
-* 2019.09–2020.02, Institut Supérieur d'Électronique de Paris <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" width="18" height="18"/>, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC)
-* 2019.02–2019.06, Exchange Student, Department of Electrical Engineering, National University of Kaohsiung, Kaohsiung, Taiwan, China
-* 2014.09–2017.06, Shanghai Yan'an High School <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="18" height="18"/>
+  .cv-page h1 {
+    margin: 0 0 1rem;
+  }
 
-Publications
-======
+  .cv-page__intro {
+    margin: 0 0 1rem;
+    padding: 1rem 1.2rem;
+    border-left: 4px solid var(--rw-link, #3a83aa);
+    border-radius: 0 5px 5px 0;
+    background: var(--rw-hover, #edf4f7);
+  }
 
-Journal Articles
-------
-Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)][[Click here](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network) to learn more][[PDF](https://rusiwang99.github.io/files/JTRP_103819.pdf)] (SSCI, JIF (2025)=6.2, JCR Q1, CAS Tier 1 (Top))
+  .cv-page__intro p {
+    margin: 0 0 0.35rem;
+  }
 
-**Rusi Wang**, Jingyu Huang\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)][[Click here](https://rusiwang99.github.io/publication/2024-05-28-Interior%20noise%20prediction%20of%20inter-coach%20space%20of%20high-speed%20maglev%20trains%20based%20on%20wavenumber%20decomposition%20on%20aerodynamic%20excitation) to learn more] (EI, Scopus Q2)
+  .cv-page__intro .cv-page__updated {
+    color: var(--rw-muted, #727b81);
+    font-size: 0.85rem;
+  }
 
-**Rusi Wang**, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)][[Click here](https://rusiwang99.github.io/publication/2022-10-20-Numerical%20investigation%20into%20characteristics%20of%20far-field%20aerodynamic%20noise%20radiated%20by%20inter-coach%20space%20of%20high-speed%20maglev%20trains) to learn more] (EI)
+  .cv-page__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+    margin-top: 0.8rem;
+  }
 
-Conference Papers
-------
-**Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C. <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="18" height="18"/>, 2026. [[Click here](https://rusiwang99.github.io/publication/2025-10-29-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market) to learn more][[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf)]
+  .cv-page__actions a {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    border: 1px solid var(--rw-link, #3a83aa);
+    border-radius: 4px;
+    color: var(--rw-link, #3a83aa);
+    font-size: 0.85rem;
+    line-height: 1.35;
+  }
 
-Visiting Research & Academic Programs
-======
-* Research Trainee at [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/) <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" width="18" height="18"/>, September 2019–February 2020
-> Conducted research in [LISITE](https://www.isep.fr/en/research-at-isep/) under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) (post-doctoral fellow) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
-* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/__local/2/4C/BB/27A567A3E5B5C7B359C5451CA54_CA427CB4_2DE9F7.pdf?e=.pdf) <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="18" height="18"/>, January 2018–February 2018
+  .cv-page__actions a:hover,
+  .cv-page__actions a:focus-visible {
+    background: var(--rw-link, #3a83aa);
+    color: var(--rw-surface, #fff);
+    text-decoration: none;
+  }
 
-Scholarships
-======
-* Chuangmai Scholarship, Tongji University (¥5,000, Rank: 2/32), December 2023
-* Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000), December 2019
-* Scholarship Under the State Scholarship Fund (€5,250, Awarded by China Scholarship Council), June 2019
-* Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China (¥1,000), December 2018
+  .cv-page__preview {
+    width: 100%;
+    height: max(680px, 78vh);
+    border: 1px solid var(--rw-line, #e1e4e8);
+    border-radius: 5px;
+    overflow: hidden;
+    background: var(--rw-surface-soft, #f5f7f8);
+  }
 
-Honors & Awards
-======
-* Honorable Mention, 2019 Interdisciplinary Contest in Modeling, April 2019
-* Second Prize (Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
-* First Prize, 2018 Sichuan Provincial Undergraduate Electronic Design Contest, August 2018
+  .cv-page__preview iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  @media (max-width: 640px) {
+    .cv-page__preview { height: 72vh; min-height: 480px; }
+  }
+</style>
+
+<div class="cv-page">
+  <h1>CV</h1>
+  <div class="cv-page__intro">
+    <p>Transportation network equilibrium modeling and optimization.</p>
+    <p class="cv-page__updated">Last updated: 16 October 2026</p>
+    <div class="cv-page__actions">
+      <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}" download>Download PDF</a>
+      <a href="{{ '/cv-print/' | relative_url }}">Printable source</a>
+    </div>
+  </div>
+  <div class="cv-page__preview">
+    <iframe src="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}" title="Rusi Wang CV PDF"></iframe>
+  </div>
+</div>

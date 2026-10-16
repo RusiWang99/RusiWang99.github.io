@@ -1,0 +1,114 @@
+% Rusi Wang | academic CV draft | 16 October 2026
+% Compiled with XeLaTeX. This draft is deliberately separate from the website.
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=0.73in,top=0.68in,bottom=0.69in]{geometry}
+\usepackage{fontspec}
+% TeX Gyre Termes is available in standard TeX installations. The local
+% fallback keeps this draft compilable in the present environment as well.
+\IfFontExistsTF{TeX Gyre Termes}{\setmainfont{TeX Gyre Termes}}{%
+  \setmainfont{NimbusRoman-Regular.otf}[
+    Path=/usr/share/fonts/opentype/urw-base35/,
+    BoldFont=NimbusRoman-Bold.otf,
+    ItalicFont=NimbusRoman-Italic.otf,
+    BoldItalicFont=NimbusRoman-BoldItalic.otf]}
+\usepackage{array,tabularx,enumitem,titlesec,microtype}
+\usepackage{hyperref}
+\hypersetup{hidelinks,pdfauthor={Rusi Wang},pdftitle={Rusi Wang - Curriculum Vitae}}
+\urlstyle{same}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{\footnotesize\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[enumerate]{leftmargin=2.05em,labelsep=.45em,topsep=3pt,itemsep=4pt,parsep=0pt}
+\setlist[itemize]{leftmargin=1.25em,topsep=2pt,itemsep=2pt,parsep=0pt}
+\titleformat{\section}{\bfseries\large}{}{0pt}{\MakeUppercase}
+\titlespacing*{\section}{0pt}{12pt}{5pt}
+\newcommand{\subhead}[1]{\vspace{3pt}{\bfseries #1}\par\vspace{1pt}}
+\newcommand{\edrow}[4]{%
+  \noindent\begin{tabularx}{\linewidth}{@{}X@{\hspace{8pt}}>{\raggedleft\arraybackslash}p{.18\linewidth}@{}}
+  \textbf{#1} & #4 \\
+  \multicolumn{2}{@{}p{\linewidth}@{}}{#2} \\
+  \multicolumn{2}{@{}p{\linewidth}@{}}{#3}
+  \end{tabularx}\vspace{4pt}\par
+}
+\newcommand{\dated}[2]{%
+  \noindent\begin{tabularx}{\linewidth}{@{}X@{\hspace{9pt}}>{\raggedleft\arraybackslash}p{.19\linewidth}@{}}
+  #1 & #2
+  \end{tabularx}\par
+}
+
+\begin{document}
+{\fontsize{18}{21}\selectfont\bfseries Rusi Wang}\par\vspace{4pt}
+\begin{tabularx}{\linewidth}{@{}X>{\raggedleft\arraybackslash}X@{}}
+Urban Mobility Institute & Email: \href{mailto:rusiwang@tongji.edu.cn}{rusiwang@tongji.edu.cn} \\
+Tongji University & Website: \href{https://rusiwang99.github.io/}{rusiwang99.github.io} \\
+Shanghai, China & \href{https://scholar.google.com/citations?user=bBc5rVMAAAAJ\&hl=en}{Google Scholar}\quad\href{https://orcid.org/0000-0003-3375-4178}{ORCID}
+\end{tabularx}
+\vspace{7pt}\hrule height .55pt
+
+\section*{Research interests}
+Transportation network equilibrium modeling and optimization; dynamic traffic assignment in multimodal networks; travel demand management, including congestion pricing, tradable mobility credit, and booking cum rationing.
+
+\section*{Education}
+\edrow{Tongji University}{Ph.D. in Urban Mobility}{Shanghai, China; College of Transportation; advisor: Prof. Chi Xie}{2024--present}
+\edrow{Tongji University}{M.Sc.(Eng.) in Vehicle Operation Engineering}{Shanghai, China; Institute of Rail Transit}{2021--2024}
+\edrow{University of Electronic Science and Technology of China}{B.Eng. in Internet of Things Engineering}{Chengdu, China; School of Information and Communication Engineering}{2017--2021}
+\edrow{Institut Sup\'erieur d'\'Electronique de Paris}{Visiting Undergraduate Student Awarded by China Scholarship Council (CSC)}{Paris, France}{2019--2020}
+\edrow{National University of Kaohsiung}{Exchange Student}{Kaohsiung, Taiwan, China; Department of Electrical Engineering}{2019}
+
+\section*{Selected publications}
+\subhead{Refereed journal articles}
+\begin{enumerate}
+  \item Chi Xie, \textbf{Rusi Wang}, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, and Qing-Chang Lu. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. \textit{Transport Policy}, 174:103819, 2025. \href{https://doi.org/10.1016/j.tranpol.2025.103819}{[DOI]}
+\end{enumerate}
+
+\subhead{Conference papers}
+\begin{enumerate}
+  \item \textbf{Rusi Wang} and Chi Xie. A convex programming model for dynamic ridesharing user equilibrium. Accepted for presentation at the \textit{106th Annual Meeting of the Transportation Research Board}, Washington, D.C., 10--14 January 2027. Paper No. TRBAM-27-06071.
+  \item \textbf{Rusi Wang}, Chi Xie, Bo Zou, and Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy in a multimodal multicommodity freight transportation market. \textit{105th Annual Meeting of the Transportation Research Board}, Washington, D.C., 11--15 January 2026. Paper No. TRBAM-26-04956. \href{https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/24895}{[TRB Program]}
+\end{enumerate}
+Earlier publications are listed on my \href{https://rusiwang99.github.io/publications/}{personal homepage}.
+
+\newpage
+\section*{Working papers}
+\begin{itemize}
+  \item \textbf{Rusi Wang} and Chi Xie. A Nesterov-style convex programming model for dynamic user equilibrium with maximum entropy selection. \textit{Working paper; planned journal submission}.
+  \item \textbf{Rusi Wang} and Chi Xie. A convex programming model for dynamic user equilibrium based on Nesterov's network equilibrium model. \textit{Working paper; planned conference submission}.
+\end{itemize}
+
+\section*{Work in progress}
+\begin{itemize}
+  \item \textbf{Rusi Wang} and Chi Xie. Dynamic equilibrium in multimodal networks with carpooling, autonomous taxis, and public transit. \textit{Work in progress}.
+  \item \textbf{Rusi Wang} and Chi Xie. Second-best congestion pricing in dynamic traffic networks: A bilevel optimization model with a convex dynamic user equilibrium formulation. \textit{Work in progress}.
+\end{itemize}
+
+\section*{Research experience}
+\dated{\textbf{Visiting undergraduate research}, \href{https://www.isep.fr/en/research-at-isep/}{LISITE Lab}, Institut Sup\'erieur d'\'Electronique de Paris}{2019--2020}
+\begin{itemize}
+  \item Studied melanoma classification with convolutional neural networks trained on dermoscopic images from the ISIC database, under Dr. Erc\"ument Y\i lmaz and Prof. Maria Trocan.
+\end{itemize}
+
+\section*{Projects}
+\dated{\textbf{Loopae}, software for transportation network equilibrium analysis}{2026--present}
+Developed an interactive environment for computing, analyzing, and visualizing transportation network equilibria; continuing to refine and extend its capabilities.
+
+\section*{Presentation}
+\textit{A convex programming model for dynamic ridesharing user equilibrium}. Upcoming: accepted for presentation at the 106th Annual Meeting of the Transportation Research Board, Washington, D.C., 10--14 January 2027.
+
+\section*{Scholarships and awards}
+\dated{Chuangmai Scholarship, Tongji University}{2023}
+\dated{Excellent Student Scholarship, University of Electronic Science and Technology of China}{2019}
+\dated{Scholarship Under the State Scholarship Fund, China Scholarship Council}{2019}
+\dated{Honorable Mention, Interdisciplinary Contest in Modeling}{2019}
+\dated{First Prize, Sichuan Provincial Undergraduate Electronic Design Contest}{2018}
+
+\section*{Academic service}
+Journal reviewer, \textit{Socio-Economic Planning Sciences} (2026).
+
+\vfill
+{\footnotesize Updated 16 October 2026.}\hfill{\footnotesize Full publication details: \href{https://rusiwang99.github.io/publications/}{rusiwang99.github.io/publications/}}
+\end{document}
