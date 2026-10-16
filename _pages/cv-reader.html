@@ -115,8 +115,9 @@ permalink: /cv-reader/
         await textLayer.render();
         for (const annotation of await page.getAnnotations({ intent: 'display' })) {
           if (annotation.subtype !== 'Link' || !annotation.url || !/^(https?:|mailto:)/i.test(annotation.url)) continue;
-          const rectangle = viewport.convertToViewportRectangle(annotation.rect);
-          const [x1, y1, x2, y2] = rectangle;
+          const [left, bottom, right, top] = annotation.rect;
+          const [x1, y1] = viewport.convertToViewportPoint(left, bottom);
+          const [x2, y2] = viewport.convertToViewportPoint(right, top);
           const link = document.createElement('a');
           link.href = annotation.url; link.target = '_blank'; link.rel = 'noopener noreferrer';
           link.setAttribute('aria-label', `Open link in new tab: ${annotation.url}`);
