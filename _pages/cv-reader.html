@@ -26,7 +26,7 @@ permalink: /cv-reader/
     .toolbar .separator { width: 1px; height: 20px; margin: 0 4px; background: #707174; }
     #pageNumber { width: 35px; height: 25px; text-align: center; color: white; background: #242629; border: 1px solid #555; }
     .zoom-control { display: inline-flex; align-items: center; justify-content: center; min-width: 50px; height: 25px; white-space: nowrap; }
-    #zoomInput { width: 31px; padding: 0; color: white; background: transparent; border: 0; text-align: right; font-size: 12px; appearance: textfield; -moz-appearance: textfield; }
+    #zoomInput { width: 23px; padding: 0; color: white; background: transparent; border: 0; text-align: right; font-size: 12px; appearance: textfield; -moz-appearance: textfield; }
     #zoomInput::-webkit-inner-spin-button, #zoomInput::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
     .zoom-control span { font-size: 12px; }
     .workspace { height: calc(100% - 48px); display: flex; }
@@ -82,7 +82,7 @@ permalink: /cv-reader/
     const thumbs = document.getElementById('thumbnails');
     const pageInput = document.getElementById('pageNumber');
     const zoomInput = document.getElementById('zoomInput');
-    const zoomSteps = [50, 75, 90, 95, 100, 105, 110, 125, 150, 200, 250, 300];
+    const zoomSteps = [50, 75, 90, 100, 110, 125, 150, 200, 250, 300];
     let pdf, baseWidth, zoom = 1, fit = true, rendering = 0;
 
     function selectPage(number) {
@@ -162,14 +162,24 @@ permalink: /cv-reader/
       zoom = Math.min(300, Math.max(50, Math.round(percent))) / 100;
       render();
     }
-    document.getElementById('zoomOut').addEventListener('click', () => {
+    function stepZoom(direction) {
       const current = Math.round(zoom * 100);
-      setZoom(zoomSteps.findLast(step => step < current) ?? zoomSteps[0]);
-    });
-    document.getElementById('zoomIn').addEventListener('click', () => {
-      const current = Math.round(zoom * 100);
-      setZoom(zoomSteps.find(step => step > current) ?? zoomSteps.at(-1));
-    });
+      setZoom(direction > 0
+        ? (zoomSteps.find(step => step > current) ?? zoomSteps.at(-1))
+        : (zoomSteps.findLast(step => step < current) ?? zoomSteps[0]));
+    }
+    document.getElementById('zoomOut').addEventListener('click', () => stepZoom(-1));
+    document.getElementById('zoomIn').addEventListener('click', () => stepZoom(1));
+    let lastWheelZoom = 0;
+    window.addEventListener('wheel', event => {
+      if (!event.ctrlKey) return;
+      event.preventDefault();
+      if (!pdf || !event.deltaY) return;
+      const now = performance.now();
+      if (now - lastWheelZoom < 120) return;
+      lastWheelZoom = now;
+      stepZoom(event.deltaY < 0 ? 1 : -1);
+    }, { passive: false, capture: true });
     zoomInput.addEventListener('change', () => setZoom(zoomInput.valueAsNumber));
     zoomInput.addEventListener('keydown', event => { if (event.key === 'Enter') zoomInput.blur(); });
     document.getElementById('fitWidth').addEventListener('click', () => { fit = true; render(); });
