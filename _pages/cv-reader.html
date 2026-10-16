@@ -17,7 +17,8 @@ permalink: /cv-reader/
     button:hover, .toolbar a:hover { background: #505154; }
     button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid #8ac5e4; outline-offset: -2px; }
     .toolbar { height: 48px; display: flex; align-items: center; gap: 7px; padding: 0 12px; background: #323639; box-shadow: 0 1px 3px #2229; }
-    .toolbar button, .toolbar a { min-width: 30px; height: 30px; display: inline-flex; justify-content: center; align-items: center; border-radius: 3px; text-decoration: none; font-size: 18px; }
+    .toolbar button, .toolbar a { width: 30px; min-width: 30px; height: 30px; padding: 0; display: inline-flex; justify-content: center; align-items: center; border-radius: 3px; text-decoration: none; }
+    .toolbar button svg, .toolbar a svg { display: block; width: 18px; height: 18px; flex: none; }
     .toolbar .title { min-width: 0; flex: 1; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; margin-left: 4px; }
     .toolbar .separator { width: 1px; height: 20px; margin: 0 4px; background: #707174; }
     #pageNumber { width: 35px; height: 25px; text-align: center; color: white; background: #242629; border: 1px solid #555; }
@@ -28,7 +29,7 @@ permalink: /cv-reader/
     .thumb { display: block; width: 120px; margin: 0 auto 16px; padding: 4px 4px 6px; color: white; border: 2px solid transparent; background: transparent; font-size: 12px; }
     .thumb.active { border-color: #8ab9ed; }
     .thumb canvas { display: block; max-width: 100%; margin: 0 auto 5px; box-shadow: 0 1px 5px #111; }
-    .scroller { flex: 1; min-width: 0; overflow: auto; padding: 16px; }
+    .scroller { flex: 1; min-width: 0; overflow: auto; scrollbar-gutter: stable; padding: 16px; }
     .sheet { position: relative; width: max-content; max-width: none; margin: 0 auto 16px; background: white; box-shadow: 0 2px 8px #2227; }
     .sheet canvas { display: block; }
     .textLayer { position: absolute; inset: 0; overflow: clip; line-height: 1; letter-spacing: normal; word-spacing: normal; transform-origin: 0 0; color-scheme: only light; -webkit-text-size-adjust: none; text-size-adjust: none; }
@@ -50,13 +51,13 @@ permalink: /cv-reader/
     <span class="separator first"></span>
     <input id="pageNumber" type="number" min="1" value="1" aria-label="Page number"><span id="pageCount">/ 2</span>
     <span class="separator"></span>
-    <button id="zoomOut" type="button" title="Zoom out" aria-label="Zoom out">−</button>
+    <button id="zoomOut" type="button" title="Zoom out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14"/></svg></button>
     <span id="zoomLabel">Fit</span>
-    <button id="zoomIn" type="button" title="Zoom in" aria-label="Zoom in">+</button>
-    <button id="fitWidth" type="button" title="Fit width" aria-label="Fit width">⊡</button>
+    <button id="zoomIn" type="button" title="Zoom in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M12 5v14"/></svg></button>
+    <button id="fitWidth" type="button" title="Fit width" aria-label="Fit width"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><rect x="5" y="5" width="14" height="14"/><circle cx="12" cy="12" r="1.2" fill="currentColor" stroke="none"/></svg></button>
     <span class="separator"></span>
     <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}" download title="Download PDF" aria-label="Download PDF"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4M4 17v3h16v-3"/></svg></a>
-    <button id="print" type="button" title="Print CV" aria-label="Print CV">⎙</button>
+    <button id="print" type="button" title="Print CV" aria-label="Print CV"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9V3h12v6M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 15h12v6H6z"/><circle cx="18" cy="12" r=".7" fill="currentColor" stroke="none"/></svg></button>
   </div>
   <div class="workspace">
     <aside class="thumbnails" id="thumbnails" aria-label="Page thumbnails"></aside>
@@ -91,7 +92,11 @@ permalink: /cv-reader/
       const current = Math.min(Math.max(Number(pageInput.value) || 1, 1), pdf.numPages);
       const first = await pdf.getPage(1);
       baseWidth = first.getViewport({ scale: 1 }).width;
-      if (fit) zoom = Math.min(1.7, (scroller.clientWidth - 32) / baseWidth);
+      if (fit) {
+        const style = getComputedStyle(scroller);
+        const padding = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight);
+        zoom = Math.min(1.7, (scroller.clientWidth - padding) / baseWidth);
+      }
       zoomLabel.textContent = `${Math.round(zoom * 100)}%`;
       pages.className = '';
       pages.replaceChildren();
