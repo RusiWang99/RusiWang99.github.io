@@ -86,7 +86,7 @@ author_profile: false
     <p class="cv-page__updated">Last updated: 16 October 2026</p>
     <div class="cv-page__actions">
       <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}" download>Download PDF</a>
-      <a href="{{ '/cv-print/' | relative_url }}">Printable source</a>
+      <a href="{{ '/cv-print/' | relative_url }}" target="_blank" rel="noopener noreferrer">Printable source</a>
     </div>
   </div>
   <div class="cv-page__preview">
