@@ -7,7 +7,7 @@ redirect_from:
 excerpt: 'Accepted for presentation at the 106th Annual Meeting of the Transportation Research Board in January 2027.'
 date: 2026-09-28
 venue: '106th Annual Meeting of the Transportation Research Board'
-citation: 'Wang, R., & Xie, C. (2027, January 10–14). A convex programming model for dynamic ridesharing user equilibrium [Paper accepted for presentation]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., United States.'
+citation: 'Wang, R., & Xie, C. (2027, January 10–14). A convex programming model for dynamic ridesharing user equilibrium [Paper accepted for poster presentation]. 106th Annual Meeting of the Transportation Research Board, Washington, D.C., United States.'
 authors:
   - name: "Rusi Wang"
     email: "rusiwang@tongji.edu.cn"
@@ -45,6 +45,10 @@ publication:
 **Novelty:** To the authors' knowledge, this is the first DRUE model for general traffic networks in the literature. One of its appealing features is that it guarantees a unique DRUE flow pattern, which is selected from the optimal face of the corresponding linear programming model.
 
 **Practical Applications:** The model quantifies how demand, value of time, sharing inconvenience, seat capacity, and fare reshape dynamic ridesharing equilibrium patterns. It can be efficiently solved and favorably serve as a lower-level equilibrium response model for dynamic road pricing, capacity allocation, network design, and other travel demand management problems.
+
+## Conference Presentation
+
+Poster Session 3029. [[TRB Program](https://annualmeeting.mytrb.org/OnlineProgram/Details/26428){:target="_blank" rel="noopener noreferrer"}]
 
 ## Article History
 
