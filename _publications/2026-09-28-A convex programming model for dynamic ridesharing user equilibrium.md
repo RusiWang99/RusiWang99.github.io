@@ -46,10 +46,6 @@ publication:
 
 **Practical Applications:** The model quantifies how demand, value of time, sharing inconvenience, seat capacity, and fare reshape dynamic ridesharing equilibrium patterns. It can be efficiently solved and favorably serve as a lower-level equilibrium response model for dynamic road pricing, capacity allocation, network design, and other travel demand management problems.
 
-## Conference Presentation
-
-Poster Session 3029. [[TRB Program](https://annualmeeting.mytrb.org/OnlineProgram/Details/26428){:target="_blank" rel="noopener noreferrer"}]
-
 ## Article History
 
 Received 2 August 2026; Accepted 28 September 2026
