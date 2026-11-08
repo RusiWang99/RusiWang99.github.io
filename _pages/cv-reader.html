@@ -73,6 +73,7 @@ permalink: /cv-reader/
     <main class="scroller" id="scroller"><div id="pages" class="message">Loading CV…</div></main>
   </div>
   <!-- PDF.js is distributed under the Apache License 2.0; see /assets/vendor/pdfjs/LICENSE. -->
+  <script src="{{ '/assets/js/focus-cleanup.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
   <script type="module">
     import * as pdfjsLib from "{{ '/assets/vendor/pdfjs/pdf.mjs' | relative_url }}";
     pdfjsLib.GlobalWorkerOptions.workerSrc = "{{ '/assets/vendor/pdfjs/pdf.worker.mjs' | relative_url }}";
