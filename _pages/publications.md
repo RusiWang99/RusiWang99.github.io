@@ -38,8 +38,6 @@ Chi Xie<sup>&#42;†</sup>, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiq
 
 **Rusi Wang**, Chi Xie\*. A Nesterov-style convex programming model for dynamic user equilibrium with maximum entropy selection. *Planned journal submission.*
 
-**Rusi Wang**, Chi Xie\*. A convex programming model for dynamic user equilibrium based on Nesterov’s network equilibrium model. *Planned conference submission.*
-
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Work in Progress</h1>
 
 **Rusi Wang**, Chi Xie\*. Dynamic equilibrium in multimodal networks with carpooling, autonomous taxis, and public transit.
