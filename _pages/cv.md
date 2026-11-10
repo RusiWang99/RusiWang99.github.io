@@ -83,14 +83,14 @@ author_profile: true
   <h1>CV</h1>
   <div class="cv-page__intro">
     <p>Transportation network equilibrium modeling and optimization.</p>
-    <p class="cv-page__updated">Last updated: 8 November 2026</p>
+    <p class="cv-page__updated">Last updated: 10 November 2026</p>
     <div class="cv-page__actions">
-      <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}?v=20261108cv" download="Rusi_Wang_CV.pdf">Download PDF</a>
+      <a href="{{ '/files/Rusi_Wang_CV.pdf' | relative_url }}?v=20261110cv" download="Rusi_Wang_CV.pdf">Download PDF</a>
       <a href="{{ '/cv-print/' | relative_url }}" target="_blank" rel="noopener noreferrer">Printable source</a>
     </div>
   </div>
   <div class="cv-page__preview">
-    <iframe src="{{ '/cv-reader/' | relative_url }}?v=20261108" title="Rusi Wang CV PDF"></iframe>
+    <iframe src="{{ '/cv-reader/' | relative_url }}?v=20261110" title="Rusi Wang CV PDF"></iframe>
   </div>
 </div>
 
