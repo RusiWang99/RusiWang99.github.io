@@ -121,6 +121,7 @@ author_profile: true
 * **Journal Reviewer:** *Socio-Economic Planning Sciences* (2026)
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Scholarships</h1>
+* 2026.12, Yan Kefei Transportation Development Scholarship for Outstanding Students, Tongji University (¥5,000)
 * 2023.12, Chuangmai Scholarship, Tongji University (¥5,000, Rank: 2/32)
 * 2019.12, Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000)
 * 2019.06, Scholarship Under the State Scholarship Fund (€5,250, Awarded by China Scholarship Council)
