@@ -125,6 +125,7 @@ author_profile: true
 * 2023.12, Chuangmai Scholarship, Tongji University (¥5,000, Rank: 2/32)
 * 2019.12, Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000)
 * 2019.06, Scholarship Under the State Scholarship Fund (€5,250, Awarded by China Scholarship Council)
+* 2018.12, Model Student Scholarship (Innovation and Entrepreneurship), University of Electronic Science and Technology of China (¥1,000)
 
 <h1 style="border-bottom: 1px solid var(--rw-line, #e1e4e8); padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Honors and Awards</h1>
 * 2019.04, Honorable Mention, 2019 Interdisciplinary Contest in Modeling (with <a href="https://scholar.google.com/citations?user=cvcZWesAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Ran Mao</a> and <a href="https://au.linkedin.com/in/fangping-ning-9932a8377" target="_blank" rel="noopener noreferrer">Fangping Ning</a>)
